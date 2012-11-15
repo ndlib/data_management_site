@@ -2,23 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0">
+	<meta name="site-version" content="3.0" />
 	<!-- TemplateBeginEditable name="doctitle" --><title>Repository // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-<link href="../../css/main.css" rel="stylesheet" type="text/css" />
+	<!--#include virtual="ssi/css.shtml" -->
+	<!--#include virtual="ssi/js.shtml" -->
+  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
+	<!--#include virtual="ssi/skip-links.shtml" -->
 		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
+		<!--#include virtual="ssi/header.shtml" -->
 	</div>
 	<!-- End #header -->
 	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
+	<!--#include virtual="ssi/main-menu.shtml" -->
 	</div>
 	<!-- End #main-menu -->
 	<div id="content_wrapper" class="outter">
@@ -58,7 +58,7 @@ Repository
 			</div>
 		<!-- End #content -->
 		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
+	<!--#include virtual="ssi/footer.shtml" -->
 	</div>
   <!-- End #wrapper -->
 </body>

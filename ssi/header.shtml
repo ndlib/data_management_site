@@ -1,0 +1,23 @@
+<!-- span id="tell-us" class="tell-us"><a href="http://www.library.nd.edu/feedback.php"><img src="/css/images/tellus.png" alt="Tell us what you think" border="0" /></a></span -->
+<div>
+<h4>
+	<a href="/">Hesburgh Libraries</a>
+</h4>
+
+<h3>
+  <a href="http://nd.edu/">University of Notre Dame</a>
+</h3>
+</div>
+<div class="header_search">
+<form action="http://search.nd.edu/search" method="get"  enctype="application/x-www-form-urlencoded" accept-charset="utf-8" name="myform" id="myform">
+      <fieldset>
+        <span class="legend">Website search</span>
+        <input tabindex="11" type="text" class="srch-box long" id="search_field"  name="q" value="" onkeydown="" accesskey="s" />
+	    <input type="hidden" id="proxystylesheet" name="proxystylesheet" value="lib_site_srch" />
+        <input type="hidden" id="output" name="output" value="xml_no_dtd"/>
+        <input type="hidden" id="client" name="client" value="lib_site_srch"/>
+        <input type="hidden" id="site" name="site" value="library"/>
+        <button type="submit" class="searchbtn"><!--Search--> &raquo;</button>
+</fieldset>
+	</form>
+</div>
