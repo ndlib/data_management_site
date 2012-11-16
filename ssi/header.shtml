@@ -1,7 +1,7 @@
-<!-- span id="tell-us" class="tell-us"><a href="http://www.library.nd.edu/feedback.php"><img src="/css/images/tellus.png" alt="Tell us what you think" border="0" /></a></span -->
+<!-- span id="tell-us" class="tell-us"><a href="http://www.library.nd.edu/feedback.php"><img href="http://www.library.nd.edu/css/images/tellus.png" alt="Tell us what you think" border="0" /></a></span -->
 <div>
 <h4>
-	<a href="/">Hesburgh Libraries</a>
+	<a href="http://www.library.nd.edu/">Hesburgh Libraries</a>
 </h4>
 
 <h3>

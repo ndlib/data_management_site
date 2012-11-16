@@ -1,8 +1,8 @@
-		<script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/jquery-1.6.2.min.js"></script>
 
-		<script type="text/javascript" src="/js/superfish.js"></script>
-		<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
-		<script type="text/javascript" src="/js/hoverIntent.js"></script>
-		<script type="text/javascript" src="/js/simplegallery.js"></script>
-		<script type="text/javascript" src="/js/main.js"></script>
-		<script type="text/javascript" src="/local_js/local.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/superfish.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/jquery.colorbox-min.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/hoverIntent.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/simplegallery.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/js/main.js"></script>
+		<script type="text/javascript" href="http://www.library.nd.edu/local_js/local.js"></script>

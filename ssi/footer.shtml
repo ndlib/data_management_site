@@ -1,14 +1,14 @@
 <!-- BEGIN FOOTER DIV -->
 <div id="footer" class="outter">
   <div class="mark span-5 prepend-1">
-    <a href="http://www.library.nd.edu"><img src="/images/hesburgh_mark.png" alt="Hesburgh Libraries logo" /></a>
+    <a href="http://www.library.nd.edu"><img href="http://www.library.nd.edu/images/hesburgh_mark.png" alt="Hesburgh Libraries logo" /></a>
   </div>
   <div class="span-13 footer-content">
 	   <p class="normal"><a href="http://nd.edu/">University of Notre Dame</a> | <a href="http://www.library.nd.edu/">Hesburgh Libraries</a></p>
-	<p class="normal"><a href="http://www.library.nd.edu/about/contacts.shtml">Contact information</a> | <a href="/about/policies.shtml">Library Policies</a> | <a href="https://wiki.nd.edu/display/libintranet/Home">HesNet</a> <img src="/images/lock.gif"/> | <a href="http://m.library.nd.edu/">Mobile version</a></p>
+	<p class="normal"><a href="http://www.library.nd.edu/about/contacts.shtml">Contact information</a> | <a href="http://www.library.nd.edu/about/policies.shtml">Library Policies</a> | <a href="https://wiki.nd.edu/display/libintranet/Home">HesNet</a> <img src="http://www.library.nd.edu/images/lock.gif"/> | <a href="http://m.library.nd.edu/">Mobile version</a></p>
   </div>
   <div class="mark span-5 last">
-      <a href="http://nd.edu"><img src="/images/ndmark.png" alt="University of Notre Dame logo" /></a>
+      <a href="http://nd.edu"><img href="http://www.library.nd.edu/images/ndmark.png" alt="University of Notre Dame logo" /></a>
   </div>
 </div>
 <!-- END FOOTER DIV -->
