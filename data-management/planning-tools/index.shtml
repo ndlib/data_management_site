@@ -29,30 +29,32 @@
 <a href="/data-management/">Data Management</a> &gt;
 Research Data Planning Tools
 <!-- TemplateEndEditable --></div>
-			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" -->
-      <h1>Research Data Planning Tools</h1>
-			<!-- TemplateEndEditable -->
-			</div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-			<div id="single-col" class="column span-19 last">
+      <div id="single-col" class="column span-19 last">
+        <hgroup id="pg-title">
+        <!-- TemplateBeginEditable name="pg-title" -->
+        <h1>Data Management</h1>
+        <h2>Research Data Planning Tools</h2>
+        <!-- TemplateEndEditable -->
+        </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-      <h3>Components of data management plans</h3>
+        <h3>Components of data management plans</h3>
 
-      <h3>DMPTool</h3>
+        <h3>DMPTool</h3>
 
-      <h3>Templates/samples from various funding agencies/directorates.</h3>
+        <h3>Templates/samples from various funding agencies/directorates.</h3>
 
-      <h3>Guides from other places (http://libraries.mit.edu/guides/subjects/data-management/guides.html)</h3>
+        <h3>Guides from other places (http://libraries.mit.edu/guides/subjects/data-management/guides.html)</h3>
 
-				<!-- TemplateEndEditable -->
-		    </div>
-			<!-- End #single-col -->
-			</div>
-		<!-- End #content -->
-		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
-	</div>
-  <!-- End #wrapper -->
+        <!-- TemplateEndEditable -->
+      </div>
+      <!-- End #single-col -->
+    </div>
+    <!-- End #content -->
+  </div>
+  <!--#include virtual="/ssi/footer.shtml" -->
+</div>
+<!-- End #wrapper -->
 </body>
 </html>

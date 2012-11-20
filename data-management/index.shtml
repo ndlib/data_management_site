@@ -28,12 +28,13 @@
 <a href="/">Hesburgh Library </a> &gt;
 Data Management
 <!-- TemplateEndEditable --></div>
-			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" -->
-			<h1>Data Management</h1>
-			<!-- TemplateEndEditable -->
-			</div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
 			<div id="single-col" class="column span-19 last">
+        <hgroup id="pg-title">
+        <!-- TemplateBeginEditable name="pg-title" -->
+        <h1>Data Management</h1>
+        <!-- TemplateEndEditable -->
+        </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
       <h3>Consult throughout data lifecycle</h3>

@@ -29,12 +29,14 @@
 <a href="/data-management/">Data Management</a> &gt;
 Sharing <span class="amp">&amp;</span> Archiving
 <!-- TemplateEndEditable --></div>
-			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" -->
-      <h1>Sharing <span class="amp">&amp;</span> Archiving</h1>
-			<!-- TemplateEndEditable -->
-			</div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-			<div id="single-col" class="column span-19 last">
+      <div id="single-col" class="column span-19 last">
+        <hgroup id="pg-title">
+        <!-- TemplateBeginEditable name="pg-title" -->
+        <h1>Data Management</h1>
+        <h2>Sharing <span class="amp">&amp;</span> Archiving</h2>
+        <!-- TemplateEndEditable -->
+        </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
         <h3>Archiving services</h3>

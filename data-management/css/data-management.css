@@ -9,10 +9,15 @@
 }
 
 #content {
-  padding:32px 0;
+  padding:15px 0;
+  min-height:40em;
 }
 
-#crumbs,
 #pg-title {
-  padding-left:40px;
+  height:4em;
+  margin-bottom:2em;
+}
+
+#pg-title h1 {
+  margin-bottom:.1em;
 }

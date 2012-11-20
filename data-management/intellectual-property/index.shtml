@@ -29,23 +29,25 @@
 <a href="/data-management/">Data Management</a> &gt;
 Copyright <span class="amp">&amp;</span> Intellectual Property
 <!-- TemplateEndEditable --></div>
-			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" -->
-      <h1>Copyright <span class="amp">&amp;</span> Intellectual Property</h1>
-			<!-- TemplateEndEditable -->
-			</div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-			<div id="single-col" class="column span-19 last">
+      <div id="single-col" class="column span-19 last">
+        <hgroup id="pg-title">
+        <!-- TemplateBeginEditable name="pg-title" -->
+        <h1>Data Management</h1>
+        <h2>Copyright <span class="amp">&amp;</span> Intellectual Property</h2>
+        <!-- TemplateEndEditable -->
+        </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
 
-				<!-- TemplateEndEditable -->
-		    </div>
-			<!-- End #single-col -->
-			</div>
-		<!-- End #content -->
-		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
-	</div>
-  <!-- End #wrapper -->
+        <!-- TemplateEndEditable -->
+      </div>
+      <!-- End #single-col -->
+    </div>
+    <!-- End #content -->
+  </div>
+  <!--#include virtual="/ssi/footer.shtml" -->
+</div>
+<!-- End #wrapper -->
 </body>
 </html>
