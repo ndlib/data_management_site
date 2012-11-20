@@ -1,0 +1,18 @@
+/* Overrides */
+
+#left-nav {
+  margin:5px 25px 0 -15px;
+}
+
+#left-nav ul {
+  border-top:1px solid #0E3255;
+}
+
+#content {
+  padding:32px 0;
+}
+
+#crumbs,
+#pg-title {
+  padding-left:40px;
+}

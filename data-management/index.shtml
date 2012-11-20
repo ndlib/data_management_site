@@ -3,12 +3,13 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Repository // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="doctitle" --><title>Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<!--#include virtual="/ssi/css.shtml" -->
 	<!--#include virtual="/ssi/js.shtml" -->
   <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
+  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="wrapper" class="outter">
@@ -24,14 +25,35 @@
 	<div id="content_wrapper" class="outter">
 		<div id="content" class="container">
 			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
-        <a href="/">Hesburgh Library</a>
+<a href="/">Hesburgh Library </a> &gt;
+Data Management
 <!-- TemplateEndEditable --></div>
 			<div id="pg-title" class="span-24 last"><!-- TemplateBeginEditable name="pg-title" -->
-			<h1>Placeholder Page</h1>
+			<h1>Data Management</h1>
 			<!-- TemplateEndEditable -->
 			</div>
 				<div id="single-col" class="column span-24 last">
-          <a href="/data-management/">Data Management Page</a>
+        <!-- TemplateBeginEditable name="left-column-content" -->
+
+        <h2>Focus</h2>
+
+        <ul>
+          <li>Description &mdash; we provide metadata services to ensure that items are wrapped in rich, accurate metadata.</li>
+          <li>Discovery &mdash; we provide targeted discovery interfaces and syndicate our content to search engines like <a href="http://www.google.com">Google</a>.</li>
+          <li>Preservation &mdash; we are committed preserving data for the long term.</li>
+        </ul>
+
+
+        <h2>Technology</h2>
+
+        <p>
+          Our digital repository is based on the <a href="http://fedora-commons.org/">Fedora Commons</a>
+          project. We are a partner in the <a href="http://projecthydra.org/">Hydra Project</a>
+          &mdash; a community of like-minded institutions who are building reusable
+          services on top of Fedora.
+        </p>
+
+				<!-- TemplateEndEditable -->
 		    </div>
 			<!-- End #single-col -->
 			</div>
