@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="site-version" content="3.0" />
+	<!-- TemplateBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<!--#include virtual="/ssi/css.shtml" -->
+	<!--#include virtual="/ssi/js.shtml" -->
+  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
+  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="wrapper" class="outter">
+	<!--#include virtual="/ssi/skip-links.shtml" -->
+		<div id="header" class="outter">
+		<!--#include virtual="/ssi/header.shtml" -->
+	</div>
+	<!-- End #header -->
+	<div id="main-menu" class="outter">
+	<!--#include virtual="/ssi/main-menu.shtml" -->
+	</div>
+	<!-- End #main-menu -->
+	<div id="content_wrapper" class="outter">
+		<div id="content" class="container child-page">
+			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
+<a href="/">Hesburgh Library </a> &gt;
+<a href="/data-management/">Data Management</a> &gt;
+Data Formats
+<!-- TemplateEndEditable --></div>
+      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+      <div id="single-col" class="column span-16 append-1 last">
+        <hgroup id="pg-title">
+        <!-- TemplateBeginEditable name="pg-title" -->
+        <h1>Data Management</h1>
+        <h2>Data Formats</h2>
+        <!-- TemplateEndEditable -->
+        </hgroup>
+        <!-- TemplateBeginEditable name="left-column-content" -->
+</p>
+	
+<p>Some formats make it easier for you to share the data with colleagues. If you use a special system or proprietary data format for collecting/creating your data, you will want to plan to save and store data in that format, but also consider how to convert it to a more open format for storage, archiving, and sharing.
+</p> 
+<p>Formats Most easily accessed in the future are:
+	<ul>
+	  <li>Non-proprietary and not tied to a specific piece of
+	  software</li>
+	  <li>Open, documented standard</li>
+	  <li>In common usage by the research community</li>
+	  <li>Standard representation (ASCII, Unicode)</li>
+	  <li>Unencrypted</li>
+	  <li>Uncompressed</li>
+	</ul>
+</p> 
+
+<p>Adapted from: University of Virginia Libraries: Making Data
+	Management Easier (add link)</p>
+  
+<p>For further consideration of file formats in the context of
+	research data management and preservation, See:
+       <ul>
+	  <li>DCC  Digital Curation Manual Instalment on File Formats
+	(add link)</li>
+	<li>Library of Congress Sustainability of Digital Formats (add
+	link)</li>
+	<li>UK Data Archive's File Formats Table (add link)</li>
+      </ul>
+</p>
+	index.shtml
+        <!-- TemplateEndEditable -->
+      </div>
+      <!-- End #single-col -->
+    </div>
+    <!-- End #content -->
+  </div>
+  <!--#include virtual="/ssi/footer.shtml" -->
+</div>
+<!-- End #wrapper -->
+</body>
+</html>
