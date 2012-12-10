@@ -39,64 +39,272 @@ Documentation <span class="amp">&nbsp;</span> Metadata
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+<p>Data documentation is the primary metadata related to the
+project that will assist in the organization, discovery, and ease of use in the
+future. By filling out the metadata completely and carefully it will ensure
+that the data is accessible for any user and it will be easier for other
+researchers to cite your information.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>It is extremely important to begin documenting information
+related to the project from the start. By documenting salient information early
+in the process it will be much easier to ensure that all aspects of the project
+are relayed properly to users. This will also aid in the long-term preservation
+of the project because it will show who was involved and what steps were taken
+to get to the results that you find.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p><span class=GramE>A wide range of metadata standards exist</span>
+for researchers to choose from to document their project. An example of a data
+standard is the DDI (Data Documentation Initiative), a standard designed for
+numeric data. For further help in documenting your data please contact the
+Libraries Digital Programs Department.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Below are some of the general guidelines that should be
+documented regardless of the discipline or project type. This metadata should
+be stored with the project data at the very least in a readme.txt file. If the
+information is included in an article or presentation then you can reference
+that item so that the information can be accessed there. When filling out this
+information think about how you would search for the same project and be sure
+to include that information so that other researchers in the field can easily
+access the materials.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Recommended Fields to Augment Discovery:</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Title:<span style='mso-tab-count:1'>&nbsp;&nbsp; </span> <span
+style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Name
+of dataset or research project that produced it. (Include both if</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>applicable</span>)</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Creator(s):<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Names
+and addresses of the group that created the data. This could be </p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>an</span> individual or organization.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Contributor(s):<span style="mso-spacerun:yes">&nbsp;
+</span>Names and addresses of additional individuals that contributed to the
+project.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Identifier:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Unique
+identifier or number that is used to identify the data. This</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>could</span> be an internal project number or code to reference the
+data.</p>
+
+<p>Abstract or</p>
+
+<p>Description:<span style='mso-tab-count:1'>&nbsp;&nbsp; </span>A
+brief synopsis of the project or data that another researcher can</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>review</span> quickly to see the relevance of the project to what
+they are</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>seeking</span>.<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Subject:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Keywords,
+phrases, or subject headings that will describe </p>
+
+<p style='margin-left:1.0in'><span class=GramE>the</span>
+subject or content of the data. In adding these, think of how you would search
+for the materials.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Funders:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Organizations
+or agencies that funded the research or project.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Rights:<span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Any
+known intellectual property rights held for the data or project. </p>
+
+<p>Access</p>
+
+<p>Information:<span style='mso-tab-count:1'>&nbsp; </span>The
+location of the data and how the researcher can access the</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>materials</span>. Confidentiality can be addressed here as well.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Language:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
+language(s) of the content.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Dates:<span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
+dates associated with the project including the start and end date </p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>of</span> the project, time period covered by the data or project,
+the release</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>date</span> of the data, maintenance cycle of the data, update
+schedule of the</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>data</span>, and other important dates that will help document the
+process</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>and</span> aid in preservation.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Location:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If
+the data relates to a physical location, the spatial coverage should</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>be</span> documented.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Methodology:<span style='mso-tab-count:1'> </span> The
+process of how the data was generated, include the equipment</p>
+
+<p style='margin-left:1.0in'><span class=GramE>software</span>
+used including the version, the experimental protocol, data validation and
+quality assurance of the data, and other information</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>that</span> would be documented during the process.</p>
+
+<p>Data </p>
+
+<p>Processing:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Documenting
+the alterations made to the data will aid in </p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>preservation</span> of the data and record who made changes and for
 </p>
 
-<p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>what</span> reasons at specific times.</p>
 
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+<p><o:p>&nbsp;</o:p></p>
 
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
+<p>Sources:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Citations
+for the sources that were used during the project. Include</p>
 
-<p>
-  Nunc blandit, erat sagittis molestie gravida, mauris orci tincidunt libero, et
-  sodales nunc diam in nisl. Ut at nulla libero. Nulla mattis, enim non porttitor
-  mollis, nunc lorem fermentum velit, pulvinar feugiat augue tortor eget turpis.
-  Aliquam hendrerit nisl a odio fermentum non porta nisl ornare. Donec dictum
-  ipsum nec magna posuere suscipit. Pellentesque tincidunt sem eget est
-  consectetur mollis tempus dolor varius. Nunc gravida lorem a elit feugiat
-  pharetra. Sed eu massa orci. Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Morbi non facilisis felis.
-</p>
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>where</span> the other data or material was stored and how it was
+accessed</p>
 
-        <!-- TemplateEndEditable -->
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>when</span> appropriate.</p>
+
+<p>List of File</p>
+
+<p>Names:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>List
+all of the data files associated with the project and include the file</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>extensions</span>. (Example: stone.mov)</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>File Formats:<span style='mso-tab-count:1'>&nbsp; </span>Format(s)
+of the data and any software that is required to read the</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>data</span> including the version. (Example: TIFF, FITS, JPEG, <span
+class=GramE>HTML</span>)</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>File Structure: Organization of the data file(s) and the
+layout of the variables when</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>applicable</span>.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Variable List:<span style='mso-tab-count:1'>&nbsp; </span>List
+of variables in the data files, when applicable.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Code Lists:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Explanation
+of codes or abbreviations used in the file names, variables</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>of</span> the data, or the project over all that will help the user
+understand</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>the</span> project. (Example: 999 <span class=GramE>indicates</span>
+a missing value in the data)</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Versions:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Date/time
+stamp for each file and use a separate identifier for each</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>version</span>.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Checksums:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>Used
+to test if your file has changed over time. This will aid in the long</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>term</span> preservation of the data and help make it secure by
+tracking</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>alterations</span>.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Related</p>
+
+<p>Materials:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Links
+or location of materials that are related to the project.</p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(Examples:
+Articles, presentations, papers)</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p>Recommended</p>
+
+<p>Citation:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
+recommended way to cite the data or the information needed </p>
+
+<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>for</span> the citation.</p>
+
+<p><o:p>&nbsp;</o:p></p>
+
+<p><o:p>&nbsp;</o:p></p>	
+
+<!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
     </div>

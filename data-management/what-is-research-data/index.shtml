@@ -40,62 +40,43 @@ What is Research Data?
         <!-- TemplateBeginEditable name="left-column-content" -->
 
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+	According to the Office of Management and Budget (add link), “ Research
+	data is defined as the recorded factual material commonly
+	accepted in the scientific community as necessary to validate
+	research findings, but not any of the following: preliminary
+	analyses, drafts of scientific papers, plans for future
+	research, peer reviews, or communications with
+	colleagues. This "recorded" material excludes physical objects
+	(e.g., laboratory samples).”
 </p>
-
+	
 <p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
+	The National Science Foundation (add link) states that “[w]hat
+	constitutes such data will be determined by the community of
+	interest through the process of peer review and program
+	management. This may include, but is not limited to: data,
+	publications, samples, physical collections, software and
+	models"
 </p>
 
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
+<p>	
+	Research data can be observational, experimental, simulated,
+	derived, or compiled.  It can also come in many formats
+	including, but not limited to:
+	<ul>
+	  <li>Text files, pdfs, or Word documents</li> 
+	  <li>Audio or video tapes</li>
+	  <li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+	  <li>Lab or field notebooks</li>
+	  <li>Protocols, procedures, workflows or methodologies</li>
+	  <li>Questionnaires or test responses</li>
+	  <li>Codebooks</li>
+	  <li>Images (slides, jpegs, tiffs)</li>
+	  <li>Models or algorithms</li> 
+	  <li>Log files, simulation software, schemas</li>
+	  <li>Software</li>
+	</ul>
 </p>
-
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
-
-<p>
-  Nunc blandit, erat sagittis molestie gravida, mauris orci tincidunt libero, et
-  sodales nunc diam in nisl. Ut at nulla libero. Nulla mattis, enim non porttitor
-  mollis, nunc lorem fermentum velit, pulvinar feugiat augue tortor eget turpis.
-  Aliquam hendrerit nisl a odio fermentum non porta nisl ornare. Donec dictum
-  ipsum nec magna posuere suscipit. Pellentesque tincidunt sem eget est
-  consectetur mollis tempus dolor varius. Nunc gravida lorem a elit feugiat
-  pharetra. Sed eu massa orci. Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Morbi non facilisis felis.
-</p>
-
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
