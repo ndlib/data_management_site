@@ -2,7 +2,9 @@
   <ul id="left-nav">
     <li><a href="/data-management/">Data Management Home</a></li>
     <li><a href="/data-management/what-is-research-data/">What is Research Data?</a></li>
-    <li><a href="/data-management/why-manage-your-data/">Why Manage Your Research Data?</a></li>
+    <li><a href="/data-management/why-manage-your-data/">Why Manage
+  Your Research Data?</a></li>
+    <li><a href="/data-management/getting-started/">Getting Started</a></li>
     <li><a href="/data-management/identify-your-needs/">Identifying Your Needs</a></li>
     <li><a href="/data-management/planning-tools/">Data Management Planning Tools</a></li>
     <li><a href="/data-management/documentation/">Documentation &amp; Metadata</a></li>
