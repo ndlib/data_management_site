@@ -2,14 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Copyright &amp; Intellectual Property // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+<meta name="site-version" content="3.0" />
+	<!-- TemplateBeginEditable name="doctitle" --><title>Intellectual Property &amp; Ethical Conduct // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<!--#include virtual="/ssi/css.shtml" -->
 	<!--#include virtual="/ssi/js.shtml" -->
   <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
   <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
 </head>
 <body>
 	<div id="wrapper" class="outter">
@@ -22,7 +24,7 @@
 	<!--#include virtual="/ssi/main-menu.shtml" -->
 	</div>
 	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
+<div id="content_wrapper" class="outter">
 		<div id="content" class="container child-page">
 			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
@@ -34,68 +36,49 @@ Copyright <span class="amp">&amp;</span> Intellectual Property
         <hgroup id="pg-title">
         <!-- TemplateBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
-        <h2>Copyright <span class="amp">&amp;</span> Intellectual Property</h2>
+        <h2>Intellectual Property <span class="amp">&amp;</span>Ethical Conduct </h2>
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
-</p>
-
-<p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
-
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
-
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
-
-<p>
-  Nunc blandit, erat sagittis molestie gravida, mauris orci tincidunt libero, et
-  sodales nunc diam in nisl. Ut at nulla libero. Nulla mattis, enim non porttitor
-  mollis, nunc lorem fermentum velit, pulvinar feugiat augue tortor eget turpis.
-  Aliquam hendrerit nisl a odio fermentum non porta nisl ornare. Donec dictum
-  ipsum nec magna posuere suscipit. Pellentesque tincidunt sem eget est
-  consectetur mollis tempus dolor varius. Nunc gravida lorem a elit feugiat
-  pharetra. Sed eu massa orci. Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Morbi non facilisis felis.
-</p>
-
+<p><strong>Management of Intellectual Property</strong><br />
+Patents, copyrights and other forms of intellectual property deriving from  University Research are managed under the <a href="http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf" target="_blank">University's Intellectual Property policy </a>.&nbsp; This and  other University policies can be found at <a href="http://policy.nd.edu">policy.nd.edu</a>.  <br />
+In general, when publishing or sharing data that you produced/collected  yourself :</p>
+<ul type="disc">
+  <li>U.S. factual data is not       copyrightable and is in the public domain (yet a particular expression of       data can be copyrightable, such as a chart or table in a book)*.</li>
+  <li>However, data can and often       is licensed.  A license agreement is       a legal instrument which indicates in advance under which circumstances       your research may be used. You can apply licenses that expand or limit how       your data can be used.</li>
+  <li>Licenses and Legal tools can       be used to make data and databases freely available.  If you want to promote sharing and       unlimited use of your data, you can make your data available under a sharing       license ( like a Creative Commons a <a href="http://creativecommons.org/choose/zero">CC0 Declaration</a> ) to       make this explicit. </li>
+  <li>If you want to make your data       available in a restricted, limited-access manner  to protect the privacy of participants       in a study or guide downstream uses of the data (e.g., requiring       attribution or forbidding for-profit use), you may use more stringent       licensing Creative Commons criteria </li>
+  <li>The ICPSR <a href="http://www.icpsr.umich.edu/DSDR/rduc/">DSDR web tool</a> provides       data producers with suggestions of elements to be considered for inclusion       in contracts to disseminate data that are of a confidential or sensitive       nature.</li>
+  <li>Read the Office of Research       Intellectual <a href="http://or.nd.edu/award-management/intellectual-property-protection/">Property       Protection article</a> for more information about the various types of intellectual       property most likely&nbsp;to be encountered in the academic setting.</li>
+</ul>
+<p><br />
+  For more information: The University of Notre Dame has adopted several policies related to the  creation and use of copyrighted materials. See <a href="http://www.nd.edu/copyright/">Copyright Matters</a> for more information. If you are uncertain as to your rights to disseminate data, University of  Notre Dame researchers are encouraged to contact the <a href="http://or.nd.edu/compliance/research-compliance/">Research Compliance  program</a>.   </p>
+<p>Sharing data that you have collected from other sources: [NOT SURE IF WE NEED THIS SECTION?]</p>
+<ul type="disc">
+  <li>Data from Library provided       databases: Most databases to which the University of Notre Dame Libraries       subscribe are licensed and carry restrictions on use, but many do allow       for educational and research use, which allows for sharing limited       portions of data.&nbsp; For more information on terms of use for databases       licensed by the Libraries, contact Cheri Smith, Associate Librarian       574-631-4271 csmith@nd.edu.</li>
+</ul>
+<h4>Ethical Conduct</h4>
+<p>The  Office of Research Integrity at the US Dept of HHS provides <a href="http://ori.hhs.gov/images/ddblock/data.pdf">Guidelines for Responsible  Data Management in Scientific Research</a>  <br />
+  The <strong>National Academy of Engineering&rsquo;s </strong> Online Ethics Center includes a discussion  of&nbsp; <a href="http://www.onlineethics.org/cms/research/modindex/moddata.aspx">Responsible  Collection, Retention, Sharing, and Interpretation of Data</a>.<br />
+  The  University of Notre Dame&rsquo;s <a href="http://or.nd.edu/compliance/research-integrity-issues/">Research  Integrity Policy</a> aims  to foster a research environment that: promotes the responsible conduct of  research, research training and any activities related to that research or  research training; discourages research misconduct; and deals promptly with  allegations or evidence of possible research misconduct.  </p>
+<p>ND&rsquo;s <a href="http://or.nd.edu/compliance/research-compliance/">Research Compliance  Program</a> provides information, support, expertise, and systems of  administration needed to meet the laws, rules, and policies governing research  in the most efficient and effective way.<br />
+  </p>
+<p><strong>Confidentiality and Human Research</strong>: <br />
+  It is vital to maintain the confidentiality of research subjects for reasons  of ethics and to ensure the continuing participation in research. At the same  time, data on research subjects can be shared if proper steps are taken to  maintain participant confidentiality. </p>
+<ul type="square">
+  <li><strong>Evaluate the sensitivity of your data</strong>:       Researchers should consider whether or not their data contains either <a href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/curation/confidentiality.jsp">direct       or indirect identifiers</a> that could be utilized with other public       information to identify research participants. If so, steps should be       taken to remove or mask these in public-use data files. </li>
+  <li><strong>Comply with University policy</strong>:       University of Notre Dame researchers concerned about confidentiality       issues with their data should consult the Office of Research &lsquo;s  <a href="http://or.nd.edu/compliance/human-subjects-research/">Human Subjects       Research web pages </a>.</li>
+</ul>
+<ul>
+  <li>Familiarize  yourself with Federal Dept of Health and Human <a href="http://ori.hhs.gov/human-subject-research-0">Services&rsquo;  Human Subject Research policies and resources</a>. </li>
+</ul>
+<p><a href="http://or.nd.edu/compliance/animal-research/"><strong>Animal Research</strong></a><strong> </strong></p>
+<p>All research involving live vertebrate animals must be  reviewed and approved by the University&rsquo;s <a href="http://or.nd.edu/compliance/regulatory-committees-2/institutional-animal-care-and-use-iacuc/" target="_parent">Institutional Animal Care and Use  Committee (IACUC)</a> prior to the initiation of the research and before  a research award can be accepted. </p>
+<p>*Note: Laws about  data vary outside the U.S.</p>
+<div>
+  <div> </div>
+</div>
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
