@@ -1,92 +1,215 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Intellectual Property &amp; Ethical Conduct // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-  <!-- TemplateBeginEditable name="head" -->
-  <!-- TemplateEndEditable -->
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
-<a href="/">Hesburgh Library </a> &gt;
-<a href="/data-management/">Data Management</a> &gt;
-Copyright <span class="amp">&amp;</span> Intellectual Property
-<!-- TemplateEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- TemplateBeginEditable name="pg-title" -->
-        <h1>Data Management</h1>
-        <h2>Intellectual Property <span class="amp">&amp;</span>Ethical Conduct </h2>
-        <!-- TemplateEndEditable -->
-        </hgroup>
-        <!-- TemplateBeginEditable name="left-column-content" -->
-
-<p><strong>Management of Intellectual Property</strong><br />
-Patents, copyrights and other forms of intellectual property deriving from  University Research are managed under the <a href="http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf" target="_blank">University's Intellectual Property policy </a>.&nbsp; This and  other University policies can be found at <a href="http://policy.nd.edu">policy.nd.edu</a>.  <br />
-In general, when publishing or sharing data that you produced/collected  yourself :</p>
-<ul type="disc">
-  <li>U.S. factual data is not       copyrightable and is in the public domain (yet a particular expression of       data can be copyrightable, such as a chart or table in a book)*.</li>
-  <li>However, data can and often       is licensed.  A license agreement is       a legal instrument which indicates in advance under which circumstances       your research may be used. You can apply licenses that expand or limit how       your data can be used.</li>
-  <li>Licenses and Legal tools can       be used to make data and databases freely available.  If you want to promote sharing and       unlimited use of your data, you can make your data available under a sharing       license ( like a Creative Commons a <a href="http://creativecommons.org/choose/zero">CC0 Declaration</a> ) to       make this explicit. </li>
-  <li>If you want to make your data       available in a restricted, limited-access manner  to protect the privacy of participants       in a study or guide downstream uses of the data (e.g., requiring       attribution or forbidding for-profit use), you may use more stringent       licensing Creative Commons criteria </li>
-  <li>The ICPSR <a href="http://www.icpsr.umich.edu/DSDR/rduc/">DSDR web tool</a> provides       data producers with suggestions of elements to be considered for inclusion       in contracts to disseminate data that are of a confidential or sensitive       nature.</li>
-  <li>Read the Office of Research       Intellectual <a href="http://or.nd.edu/award-management/intellectual-property-protection/">Property       Protection article</a> for more information about the various types of intellectual       property most likely&nbsp;to be encountered in the academic setting.</li>
-</ul>
-<p><br />
-  For more information: The University of Notre Dame has adopted several policies related to the  creation and use of copyrighted materials. See <a href="http://www.nd.edu/copyright/">Copyright Matters</a> for more information. If you are uncertain as to your rights to disseminate data, University of  Notre Dame researchers are encouraged to contact the <a href="http://or.nd.edu/compliance/research-compliance/">Research Compliance  program</a>.   </p>
-<p>Sharing data that you have collected from other sources: [NOT SURE IF WE NEED THIS SECTION?]</p>
-<ul type="disc">
-  <li>Data from Library provided       databases: Most databases to which the University of Notre Dame Libraries       subscribe are licensed and carry restrictions on use, but many do allow       for educational and research use, which allows for sharing limited       portions of data.&nbsp; For more information on terms of use for databases       licensed by the Libraries, contact Cheri Smith, Associate Librarian       574-631-4271 csmith@nd.edu.</li>
-</ul>
-<h4>Ethical Conduct</h4>
-<p>The  Office of Research Integrity at the US Dept of HHS provides <a href="http://ori.hhs.gov/images/ddblock/data.pdf">Guidelines for Responsible  Data Management in Scientific Research</a>  <br />
-  The <strong>National Academy of Engineering&rsquo;s </strong> Online Ethics Center includes a discussion  of&nbsp; <a href="http://www.onlineethics.org/cms/research/modindex/moddata.aspx">Responsible  Collection, Retention, Sharing, and Interpretation of Data</a>.<br />
-  The  University of Notre Dame&rsquo;s <a href="http://or.nd.edu/compliance/research-integrity-issues/">Research  Integrity Policy</a> aims  to foster a research environment that: promotes the responsible conduct of  research, research training and any activities related to that research or  research training; discourages research misconduct; and deals promptly with  allegations or evidence of possible research misconduct.  </p>
-<p>ND&rsquo;s <a href="http://or.nd.edu/compliance/research-compliance/">Research Compliance  Program</a> provides information, support, expertise, and systems of  administration needed to meet the laws, rules, and policies governing research  in the most efficient and effective way.<br />
-  </p>
-<p><strong>Confidentiality and Human Research</strong>: <br />
-  It is vital to maintain the confidentiality of research subjects for reasons  of ethics and to ensure the continuing participation in research. At the same  time, data on research subjects can be shared if proper steps are taken to  maintain participant confidentiality. </p>
-<ul type="square">
-  <li><strong>Evaluate the sensitivity of your data</strong>:       Researchers should consider whether or not their data contains either <a href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/curation/confidentiality.jsp">direct       or indirect identifiers</a> that could be utilized with other public       information to identify research participants. If so, steps should be       taken to remove or mask these in public-use data files. </li>
-  <li><strong>Comply with University policy</strong>:       University of Notre Dame researchers concerned about confidentiality       issues with their data should consult the Office of Research &lsquo;s  <a href="http://or.nd.edu/compliance/human-subjects-research/">Human Subjects       Research web pages </a>.</li>
-</ul>
-<ul>
-  <li>Familiarize  yourself with Federal Dept of Health and Human <a href="http://ori.hhs.gov/human-subject-research-0">Services&rsquo;  Human Subject Research policies and resources</a>. </li>
-</ul>
-<p><a href="http://or.nd.edu/compliance/animal-research/"><strong>Animal Research</strong></a><strong> </strong></p>
-<p>All research involving live vertebrate animals must be  reviewed and approved by the University&rsquo;s <a href="http://or.nd.edu/compliance/regulatory-committees-2/institutional-animal-care-and-use-iacuc/" target="_parent">Institutional Animal Care and Use  Committee (IACUC)</a> prior to the initiation of the research and before  a research award can be accepted. </p>
-<p>*Note: Laws about  data vary outside the U.S.</p>
-<div>
-  <div> </div>
-</div>
-        <!-- TemplateEndEditable -->
+  <head>
+    <meta http-equiv="Content-Type"
+    content="text/html; charset=utf-8" />
+    <meta name="site-version" content="3.0" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Intellectual Property &amp; Ethical Conduct // Data
+    Management // Hesburgh Libraries // University of Notre
+    Dame</title>
+    <!-- TemplateEndEditable -->
+    <meta name="description"
+    content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <!--#include virtual="/ssi/css.shtml" -->
+    <!--#include virtual="/ssi/js.shtml" -->
+    <link href="//www.library.nd.edu/css/main.css" rel="stylesheet"
+    type="text/css" />
+    <link href="/data-management/css/data-management.css"
+    rel="stylesheet" type="text/css" />
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+  </head>
+  <body>
+    <div id="wrapper" class="outter">
+      <!--#include virtual="/ssi/skip-links.shtml" -->
+      <div id="header" class="outter">
+        <!--#include virtual="/ssi/header.shtml" -->
       </div>
-      <!-- End #single-col -->
+      <!-- End #header -->
+      <div id="main-menu" class="outter">
+        <!--#include virtual="/ssi/main-menu.shtml" -->
+      </div>
+      <!-- End #main-menu -->
+      <div id="content_wrapper" class="outter">
+        <div id="content" class="container child-page">
+          <div id="crumbs" class="span-24 last">
+          <!-- TemplateBeginEditable name="crumbs" -->
+          <a href="/">Hesburgh Library</a>&gt;
+          <a href="/data-management/">Data Management</a>&gt;
+          Copyright
+          <span class="amp">&amp;</span>Intellectual Property
+          <!-- TemplateEndEditable --></div>
+          <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+          <div id="single-col"
+          class="column span-16 append-1 last">
+            <hgroup id="pg-title">
+              <!-- TemplateBeginEditable name="pg-title" -->
+              <h1>Data Management</h1>
+              <h2>Intellectual Property
+              <span class="amp">&amp;</span>Ethical Conduct</h2>
+              <!-- TemplateEndEditable -->
+            </hgroup>
+            <!-- TemplateBeginEditable name="left-column-content" -->
+            <h3>Management of Intellectual Property</h3>
+            <p>Patents, copyrights and other forms of intellectual
+            property deriving from University Research are managed
+            under the
+            <a href="http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf"
+            target="_blank">University's Intellectual Property
+            policy</a>. This and other University policies can be
+            found at
+            <a href="http://policy.nd.edu">policy.nd.edu</a>.</p>
+            <p>In general, when publishing or sharing data that you
+            produced/collected yourself:</p>
+            <ul>
+              <li>U.S. factual data is not copyrightable and is in
+              the public domain (yet a particular expression of
+              data can be copyrightable, such as a chart or table
+              in a book)*.</li>
+              <li>However, data can and often is licensed. A
+              license agreement is a legal instrument which
+              indicates in advance under which circumstances your
+              research may be used. You can apply licenses that
+              expand or limit how your data can be used.</li>
+              <li>Licenses and Legal tools can be used to make data
+              and databases freely available. If you want to
+              promote sharing and unlimited use of your data, you
+              can make your data available under a sharing license
+              ( like a Creative Commons a
+              <a href="http://creativecommons.org/choose/zero">CC0
+              Declaration</a>) to make this explicit.</li>
+              <li>If you want to make your data available in a
+              restricted, limited-access mannerto protect the
+              privacy of participants in a study or guide
+              downstream uses of the data (e.g., requiring
+              attribution or forbidding for-profit use), you may
+              use more stringent licensing Creative Commons
+              criteria</li>
+              <li>The ICPSR
+              <a href="http://www.icpsr.umich.edu/DSDR/rduc/">DSDR
+              web tool</a>provides data producers with suggestions
+              of elements to be considered for inclusion in
+              contracts to disseminate data that are of a
+              confidential or sensitive nature.</li>
+              <li>Read the Office of Research Intellectual
+              <a href="http://or.nd.edu/award-management/intellectual-property-protection/">
+              Property Protection article</a>for more information
+              about the various types of intellectual property most
+              likelyto be encountered in the academic
+              setting.</li>
+            </ul>
+            <p>For more information: The University of Notre Dame
+            has adopted several policies related to the creation
+            and use of copyrighted materials. See
+            <a href="http://www.nd.edu/copyright/">Copyright
+            Matters</a>for more information. If you are uncertain
+            as to your rights to disseminate data, University of
+            Notre Dame researchers are encouraged to contact the
+            <a href="http://or.nd.edu/compliance/research-compliance/">
+            Research Compliance program</a>. </p>
+            <p>Sharing data that you have collected from other
+            sources: [NOT SURE IF WE NEED THIS SECTION?]</p>
+            <ul type="disc">
+              <li>Data from Library provided databases: Most
+              databases to which the University of Notre Dame
+              Libraries subscribe are licensed and carry
+              restrictions on use, but many do allow for
+              educational and research use, which allows for
+              sharing limited portions of data. For more
+              information on terms of use for databases licensed by
+              the Libraries, contact Cheri Smith, Associate
+              Librarian 574-631-4271 csmith@nd.edu.</li>
+            </ul>
+            <h4>Ethical Conduct</h4>
+            <p>The Office of Research Integrity at the US Dept of
+            HHS provides
+            <a href="http://ori.hhs.gov/images/ddblock/data.pdf">
+            Guidelines for Responsible Data Management in
+            Scientific Research</a>
+          </p>
+          <p>The
+            <strong>National Academy of
+            Engineering’s</strong> Online Ethics Center
+            includes a discussion of
+            <a href="http://www.onlineethics.org/cms/research/modindex/moddata.aspx">
+            Responsible Collection, Retention, Sharing, and
+            Interpretation of Data</a>.
+            <br />The University of Notre Dame’s
+            <a href="http://or.nd.edu/compliance/research-integrity-issues/">
+            Research Integrity Policy</a>aims to foster a research
+            environment that: promotes the responsible conduct of
+            research, research training and any activities related
+            to that research or research training; discourages
+            research misconduct; and deals promptly with
+            allegations or evidence of possible research
+            misconduct.</p>
+            <p>ND’s
+            <a href="http://or.nd.edu/compliance/research-compliance/">
+            Research Compliance Program</a>provides information,
+            support, expertise, and systems of administration
+            needed to meet the laws, rules, and policies governing
+            research in the most efficient and effective way.
+            </p>
+            <p>
+            <strong>Confidentiality and Human Research</strong>:
+            <br />It is vital to maintain the confidentiality of
+            research subjects for reasons of ethics and to ensure
+            the continuing participation in research. At the same
+            time, data on research subjects can be shared if proper
+            steps are taken to maintain participant
+            confidentiality.</p>
+            <ul type="square">
+              <li>
+              <strong>Evaluate the sensitivity of your
+              data</strong>: Researchers should consider whether or
+              not their data contains either
+              <a href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/curation/confidentiality.jsp">
+              direct or indirect identifiers</a> that could be
+              utilized with other public information to identify
+              research participants. If so, steps should be taken
+              to remove or mask these in public-use data
+              files.</li>
+              <li>
+              <strong>Comply with University policy</strong>:
+              University of Notre Dame researchers concerned about
+              confidentiality issues with their data should consult
+              the Office of Research&rsquo;s
+              <a href="http://or.nd.edu/compliance/human-subjects-research/">
+              Human Subjects Research web pages</a>.</li>
+            </ul>
+            <ul>
+              <li>Familiarize yourself with Federal Dept of Health
+              and Human
+              <a href="http://ori.hhs.gov/human-subject-research-0">
+              Services’ Human Subject Research policies and
+              resources</a>.</li>
+            </ul>
+            <p>
+              <a href="http://or.nd.edu/compliance/animal-research/">
+
+                <strong>Animal Research</strong>
+              </a>
+              <strong></strong>
+            </p>
+            <p>All research involving live vertebrate animals must
+            be reviewed and approved by the University’s
+            <a href="http://or.nd.edu/compliance/regulatory-committees-2/institutional-animal-care-and-use-iacuc/"
+            target="_parent">Institutional Animal Care and Use
+            Committee (IACUC)</a>prior to the initiation of the
+            research and before a research award can be
+            accepted.</p>
+            <p>*Note: Laws about data vary outside the U.S.</p>
+            <!-- TemplateEndEditable -->
+          </div>
+          <!-- End #single-col -->
+        </div>
+        <!-- End #content -->
+      </div>
+      <!--#include virtual="/ssi/footer.shtml" -->
     </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-</div>
-<!-- End #wrapper -->
-</body>
+    <!-- End #wrapper -->
+  </body>
 </html>
