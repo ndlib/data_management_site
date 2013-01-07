@@ -39,55 +39,79 @@ Sharing <span class="amp">&amp;</span> Archiving
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-        <h3>Archiving services</h3>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+<h3>Why archive and share your data?</h3>
+
+	<p>Data management is not just about the plan it is also about
+	executing a strategy that benefits your research objectives
+	and the community.  Some reasons to archive and share your
+	data include:
+	<ul>
+	  <li>It is required by a publisher to share and preserve
+	access to related data</li>
+	<li>Your funding agency requires you to share it.  Many
+	funding agencies including NIH and NSF recently instituted
+	guidelines requiring you to share your data.</li>
+	<li>Your research can advance other research in the
+	community</li>
+	<li>Your work is more likely to be cited by others and
+	increase your notoriety within your discipline.</li>
+	<li>The University may require you to preserve your data.</li>
+      </ul>
 </p>
 
-        <h4>ND Depository</h4>
-<p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+      <p>
+      Therefore, it is imperative to be able to archive and share your
+      research quickly and easily.
+      </p>
+      
+<h3>How can you preserve and share data?</h3>
 
-        <h4>Other major depositories</h4>
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+      <p>
+      Depending on your needs, there are many options available for
+      archiving and sharing your data both locally and outside Notre
+      Dame.  You may also deposit your content locally and link to it
+      from a community repository, or vice versa.
+      </p>
 
-        <h4>Aggregated depository sites (databib, etc.)</h4>
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
+      <h3>Why Archive your data locally with the Hesburgh
+      Libraries?</h3>
+      <ul>
+	<li><b>Your data lives on</b>: Your data is always safe
+      whether you leave the university or not.  The Hesburgh Libraries
+      repository will preserve your content as long as needed.</li>
+      <li><b>Don’t lose your data</b>:You have the peace of mind that
+      your data will have multiple copies with regular integrity
+      checking to ensure no files get corrupted.</li>
+      <li><b>Stop your data from becoming obsolete</b>: Your data can
+      become unusable if the format becomes obsolete or the software
+      used to open it is no longer available.  We will ensure data is
+      migrated and preserved in formats that ensure usability for the
+      long term.</li>
+      <li><b>Data Citation</b>: Sharing your data, by placing your data in a repository with data citation and 
+      <li><b>Higher Levels of Security</b>: If you need higher levels of security See more under “backups and security” (link here)</li>
+      <li><b>Easily Share and Publish your data</b>: Opt to share your data
+      with GoogleScholar or other search engines</li>
+      <li><b>No community repository</b>: There may not be a community based repository suited for your discipline or the concerns of your research project</li>
+      <li>The University owns some or all of the data requiring you to
+      preserve your content locally</li>
+      </ul>
+      <p>Talk to [blank] to find out more</p>
+      
+<h3>Why Archive your data in a community repository?</h3>
+      <ul>
+	<li>Your community maintains a trusted repository that better
+      meets your sharing needs</li>
+      <li>Archive data alongside that of your peers</li>
+      <li>Your data access needs are not as restrictive</li>
+      <li><b>Note</b>: You may also want to link to your data in a campus
+      repository to meet both sharing and preservation
+      requirements</li>
+    </ul>
+
+    <p>These [folks] can help figure out which archival solution is
+    best for you</p>
+    
+<h3>Community Repository Options</h3>
 
         <h3>Citing your data</h3>
 <p>

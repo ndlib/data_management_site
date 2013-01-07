@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>What is Research Data? // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<!--#include virtual="/ssi/css.shtml" -->
@@ -27,56 +27,47 @@
 			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
-What is Research Data?
+Data Formats
 <!-- TemplateEndEditable --></div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
       <div id="single-col" class="column span-16 append-1 last">
         <hgroup id="pg-title">
         <!-- TemplateBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
-        <h2>What is Research Data?</h2>
+        <h2>Data Formats</h2>
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
-
-<p>
-	According to the Office of Management and Budget (add link), “ Research
-	data is defined as the recorded factual material commonly
-	accepted in the scientific community as necessary to validate
-	research findings, but not any of the following: preliminary
-	analyses, drafts of scientific papers, plans for future
-	research, peer reviews, or communications with
-	colleagues. This "recorded" material excludes physical objects
-	(e.g., laboratory samples).”
 </p>
 	
-<p>
-	The National Science Foundation (add link) states that “[w]hat
-	constitutes such data will be determined by the community of
-	interest through the process of peer review and program
-	management. This may include, but is not limited to: data,
-	publications, samples, physical collections, software and
-	models"
-</p>
-
-<p>	
-	Research data can be observational, experimental, simulated,
-	derived, or compiled.  It can also come in many formats
-	including, but not limited to:
+<p>Some formats make it easier for you to share the data with colleagues. If you use a special system or proprietary data format for collecting/creating your data, you will want to plan to save and store data in that format, but also consider how to convert it to a more open format for storage, archiving, and sharing.
+</p> 
+<p>Formats Most easily accessed in the future are:
 	<ul>
-	  <li>Text files, pdfs, or Word documents</li> 
-	  <li>Audio or video tapes</li>
-	  <li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
-	  <li>Lab or field notebooks</li>
-	  <li>Protocols, procedures, workflows or methodologies</li>
-	  <li>Questionnaires or test responses</li>
-	  <li>Codebooks</li>
-	  <li>Images (slides, jpegs, tiffs)</li>
-	  <li>Models or algorithms</li> 
-	  <li>Log files, simulation software, schemas</li>
-	  <li>Software</li>
+	  <li>Non-proprietary and not tied to a specific piece of
+	  software</li>
+	  <li>Open, documented standard</li>
+	  <li>In common usage by the research community</li>
+	  <li>Standard representation (ASCII, Unicode)</li>
+	  <li>Unencrypted</li>
+	  <li>Uncompressed</li>
 	</ul>
+</p> 
+
+<p>Adapted from: University of Virginia Libraries: Making Data
+	Management Easier (add link)</p>
+  
+<p>For further consideration of file formats in the context of
+	research data management and preservation, See:
+       <ul>
+	  <li>DCC  Digital Curation Manual Instalment on File Formats
+	(add link)</li>
+	<li>Library of Congress Sustainability of Digital Formats (add
+	link)</li>
+	<li>UK Data Archive's File Formats Table (add link)</li>
+      </ul>
 </p>
+	index.shtml
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->

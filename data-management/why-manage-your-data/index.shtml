@@ -27,74 +27,73 @@
 			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
-Why Manage Your Data?
+Why Manage Your Research Data?
 <!-- TemplateEndEditable --></div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
       <div id="single-col" class="column span-16 append-1 last">
         <hgroup id="pg-title">
         <!-- TemplateBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
-        <h2>Why Manage Your Data?</h2>
+        <h2>Why Manage Your Research Data?</h2>
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
-
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+	As research becomes more data intensive and collaborative,
+	data management is now an important part of responsible
+	conduct of research.  A good data management plan both
+	benefits your own project as well as the community.  As a
+	result, many funding agencies now require research projects
+	have a data management plan.  By managing your data you will:
+	<ul>
+	  <li>Meet grant requirements and have a more competitive
+	  grant application.</li>
+	  <li>Increase impact and visibility of your research through
+	  more readily achieved research data citation</li>
+	  <li>Better guarantee your research data and records are
+	  accurate, complete, authentic and reliable.</li>
+	  <li>Save time and resources in the long run.</li>
+	  <li>Enhance data security and reduce risk of data loss.</li>
+	  <li>More easily preserve your research data for the
+	  long-term</li>
+	Therefore, it is recommended you create a strategy to organize,
+	preserve, and share your data long after your research
+	concludes. 
+</p>
+	  
+<h3>Testimonials</h3>
+<p>
+  Input something for data saves lives
 </p>
 
+<h3>Consulting throughout data lifecycle</h3>
 <p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
+  Data management is not just important at the end of your research,
+	  but is important throughout the lifecycle of your
+	  research project. There are many groups and resources
+	  on and off campus that can help you write a data management plan and
+	  help manage your data throughout its lifecycle. 
 </p>
+	  <p>Insert lifecycle graphic here</p>
 
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+	  Research data presents some unique challenges such as:
+	  <ul>
+	    <li>How do I make my research data always available and usable?</li>
+	    <li>How can my peers find and cite my research data?</li>
+	    <li>How do I limit access to data initially, and
+	  expand access later?</li>
+	  <li>How can I share it with only a group of people or
+	  institutions?</li>
+	  <li>Where do I put my data and how do I get it there?</li>
+	  <li>When do I need to start preserving my data?</li>
+	  <li>Should I preserve all of my data?</li>
+	  <li>How long should I preserve my data?</li>
 
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
+	   <p>We will help answer these questions, and help
+	  you find which groups on campus can help.</p>
 
-<p>
-  Nunc blandit, erat sagittis molestie gravida, mauris orci tincidunt libero, et
-  sodales nunc diam in nisl. Ut at nulla libero. Nulla mattis, enim non porttitor
-  mollis, nunc lorem fermentum velit, pulvinar feugiat augue tortor eget turpis.
-  Aliquam hendrerit nisl a odio fermentum non porta nisl ornare. Donec dictum
-  ipsum nec magna posuere suscipit. Pellentesque tincidunt sem eget est
-  consectetur mollis tempus dolor varius. Nunc gravida lorem a elit feugiat
-  pharetra. Sed eu massa orci. Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur ridiculus mus. Morbi non facilisis felis.
-</p>
+	  
+<h3>Getting Started (add link)</h3>
 
         <!-- TemplateEndEditable -->
       </div>
