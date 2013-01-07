@@ -10,6 +10,8 @@
 	<!--#include virtual="/ssi/js.shtml" -->
   <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
   <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
 </head>
 <body>
 	<div id="wrapper" class="outter">
@@ -37,47 +39,20 @@ Data Management
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
+      <h3>We provide a range of services supporting creators and users of data for research and teaching</h3>
       <h3>Consult throughout data lifecycle</h3>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+<p> Data management is not just important at the end of your research, but is important throughout the lifecycle of your research project. There are many groups and resources on and off campus that can help you write a data management plan and help manage your data throughout its lifecycle. 
 </p>
+<p align="left">Our team can help you with recommendations on metadata  	standards, policies for accessing and sharing your data,  	policies for re-use and distribution of your data, plans  	for data storage, archiving and preserving your data, and more. To request assistance, please contact our data management  	planning team (link to listserv). See: <a href="../data-management/identify-your-needs/index.shtml" title="Your Data Management Needs">Identifying Your Data Management Needs</a> .</p> 
 
       <h3>Help with data management plans</h3>
-<p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+<p>The NSF and many other other sponsors now require that all grant applications include a data management plan. We can save you time by helping you develop high quality data management plans tailored for your individual grant applications. High quality data management plans may improve the competitiveness of your grant. See: <a href="../data-management/planning-tools/index.shtml" title="Data Management Planning Tools">Data Management Plans</a> for more information. </p>
 
-      <h3>Help with metadata</h3>
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+      <h3>Help with data documentation and metadata</h3>
+<p>Data documentation is the primary metadata related to a research project that assists in the organization, discovery, and ease of use in the  future. In order for your data to be used properly by you, your colleagues,          and other researchers, they must be documented.  Data          documentation (also known as metadata) enables you understand your data          in detail and will enable other researchers to find, use and properly        cite your data. Metadata standards are created to facilitate searching similar items by using similar terms and constructs to describe them.
 
-      <h3>Help provide long-term access (archiving)</h3>
+For more information including how to provide adequate metadata for your research, see: <a href="../data-management/documentation/index.shtml" title="Documentation and Metadata ">Documentation and Metadata </a>.</p>
+<h3>Help provide long-term access (archiving)</h3>
 <p>
   Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
   lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
@@ -89,18 +64,9 @@ Data Management
 
       <h3>Help with citing (DOI, PURL)</h3>
 <p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+  Need a DOI (digital object identfier) for your data? We can issue a EZID DOI for your data. <a href="http://n2t.net/ezid/" title="EZID home page" target="new">EZID</a> (easy-eye-dee)    	makes it easy to create &amp; manage unique, long-term identifiers. Contact us to get an EZID. </p>
+
+<p>DOI's are widely used in scientific publishing to cite journal articles, DOIs are persistent identifiers that provide long-term links to data sets and allow published articles to link to their underlying data. Need to know more? See: <a href="sharing-and-archiving/index.shtml" title="Sharing and Archiving Data">Sharing and Archiving Data</a>. </p>
 
       <h3>Workshops</h3>
 <p>
