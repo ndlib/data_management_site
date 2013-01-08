@@ -53,7 +53,7 @@
               <!-- TemplateEndEditable -->
             </hgroup>
             <!-- TemplateBeginEditable name="left-column-content" -->
-            <h3>Management of Intellectual Property</h3>
+            <!-- ORIGINAL CONTENT <h3>Management of Intellectual Property</h3>
             <p>Patents, copyrights and other forms of intellectual
             property deriving from University Research are managed
             under the
@@ -201,7 +201,7 @@
             Committee (IACUC)</a>prior to the initiation of the
             research and before a research award can be
             accepted.</p>
-            <p>*Note: Laws about data vary outside the U.S.</p>
+            <p>*Note: Laws about data vary outside the U.S.</p> -->
             <!-- TemplateEndEditable -->
           </div>
           <!-- End #single-col -->
