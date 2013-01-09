@@ -39,8 +39,9 @@
           <!-- TemplateBeginEditable name="crumbs" -->
           <a href="/">Hesburgh Library</a>&gt;
           <a href="/data-management/">Data Management</a>&gt;
-          Copyright
-          <span class="amp">&amp;</span>Intellectual Property
+            Intellectual Property
+            <span class="amp">&amp;</span>
+            Ethical Conduct
           <!-- TemplateEndEditable --></div>
           <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
           <div id="single-col"
@@ -48,8 +49,11 @@
             <hgroup id="pg-title">
               <!-- TemplateBeginEditable name="pg-title" -->
               <h1>Data Management</h1>
-              <h2>Intellectual Property
-              <span class="amp">&amp;</span>Ethical Conduct</h2>
+              <h2>
+                Intellectual Property
+                <span class="amp">&amp;</span>
+                Ethical Conduct
+              </h2>
               <!-- TemplateEndEditable -->
             </hgroup>
             <!-- TemplateBeginEditable name="left-column-content" -->

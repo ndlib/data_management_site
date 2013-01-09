@@ -18,7 +18,7 @@
 /* Page Title */
 
 #pg-title {
-  height:4.8em;
+  height:6em;
   margin-bottom:2em;
 }
 
@@ -35,9 +35,14 @@
 
 .home #pg-title h1,
 .child-page #pg-title h2 {
-  font-family:Georgia, serif;
+  font-family:"Palatino Linotype", Palatino, Garamond, Georgia, serif;
   font-size:2.5em;
+  line-height:1;
   margin-bottom:0;
+}
+
+#pg-title .amp {
+  font-weight:normal;
 }
 
 .home #pg-title h1 {
