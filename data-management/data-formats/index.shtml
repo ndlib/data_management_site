@@ -38,36 +38,48 @@ Data Formats
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
-</p>
-	
-<p>Some formats make it easier for you to share the data with colleagues. If you use a special system or proprietary data format for collecting/creating your data, you will want to plan to save and store data in that format, but also consider how to convert it to a more open format for storage, archiving, and sharing.
-</p> 
-<p>Formats Most easily accessed in the future are:
-	<ul>
-	  <li>Non-proprietary and not tied to a specific piece of
-	  software</li>
-	  <li>Open, documented standard</li>
-	  <li>In common usage by the research community</li>
-	  <li>Standard representation (ASCII, Unicode)</li>
-	  <li>Unencrypted</li>
-	  <li>Uncompressed</li>
-	</ul>
-</p> 
 
-<p>Adapted from: University of Virginia Libraries: Making Data
-	Management Easier (add link)</p>
-  
-<p>For further consideration of file formats in the context of
-	research data management and preservation, See:
-       <ul>
-	  <li>DCC  Digital Curation Manual Instalment on File Formats
-	(add link)</li>
-	<li>Library of Congress Sustainability of Digital Formats (add
-	link)</li>
-	<li>UK Data Archive's File Formats Table (add link)</li>
-      </ul>
-</p>
-	index.shtml
+        <p>
+          Some formats make it easier for you to share the data with colleagues. If you
+          use a special system or proprietary data format for collecting/creating your
+          data, you will want to plan to save and store data in that format, but also
+          consider how to convert it to a more open format for storage, archiving, and
+          sharing.
+        </p>
+
+        <p>
+          Formats Most easily accessed in the future are:
+        </p>
+        <ul>
+          <li>Non-proprietary and not tied to a specific piece of
+          software</li>
+          <li>Open, documented standard</li>
+          <li>In common usage by the research community</li>
+          <li>Standard representation (ASCII, Unicode)</li>
+          <li>Unencrypted</li>
+          <li>Uncompressed</li>
+        </ul>
+
+        <p>
+          Adapted from:
+          <a href="http://www2.lib.virginia.edu/brown/data/">
+            University of Virginia Libraries: Making Data Management Easier
+          </a>
+        </p>
+
+        <p>
+          For further consideration of file formats in the context of research
+          data management and preservation, See:
+        </p>
+
+        <ul>
+          <li>DCC  Digital Curation Manual Instalment on File Formats
+          (add link)</li>
+          <li>Library of Congress Sustainability of Digital Formats (add
+          link)</li>
+          <li>UK Data Archive's File Formats Table (add link)</li>
+        </ul>
+
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
