@@ -39,270 +39,66 @@ Documentation <span class="amp">&nbsp;</span> Metadata
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p>Data documentation is the primary metadata related to the
-project that will assist in the organization, discovery, and ease of use in the
-future. By filling out the metadata completely and carefully it will ensure
-that the data is accessible for any user and it will be easier for other
+<p>Documentation will assist in the organization, discovery, and ease of use in the
+future. Metadata is "data about data"--descriptive information about a particular data set, object, or resource, including how it is formatted, and when and by whom it was collected. By adding metadata completely and carefully, it will ensure that the data is accessible for any user, and it will be easier for other
 researchers to cite your information.</p>
 
-<p><o:p>&nbsp;</o:p></p>
-
-<p>It is extremely important to begin documenting information
+<p>It is important to begin documenting information
 related to the project from the start. By documenting salient information early
-in the process it will be much easier to ensure that all aspects of the project
-are relayed properly to users. This will also aid in the long-term preservation
-of the project because it will show who was involved and what steps were taken
+in the process, it will be much easier to ensure that all aspects of the project
+are relayed properly to your users. This will also aid in the long-term preservation
+of the data because it will show who was involved and what steps were taken
 to get to the results that you find.</p>
-
-<p><o:p>&nbsp;</o:p></p>
 
 <p><span class=GramE>A wide range of metadata standards exist</span>
 for researchers to choose from to document their project. An example of a data
 standard is the DDI (Data Documentation Initiative), a standard designed for
-numeric data. For further help in documenting your data please contact the
-Libraries Digital Programs Department.</p>
-
-<p><o:p>&nbsp;</o:p></p>
+numeric data. For further help in documenting your data please contact our team (link to listserv here).</p>
 
 <p>Below are some of the general guidelines that should be
 documented regardless of the discipline or project type. This metadata should
 be stored with the project data at the very least in a readme.txt file. If the
-information is included in an article or presentation then you can reference
+information is included in an article or presentation, then you can reference
 that item so that the information can be accessed there. When filling out this
-information think about how you would search for the same project and be sure
+information, think about how you would search for the same project, and be sure
 to include that information so that other researchers in the field can easily
 access the materials.</p>
 
-<p><o:p>&nbsp;</o:p></p>
+<h3>Most essential fields to augment discovery</h3>
+
+<ul>
+<li><b>Title</b>: Name of dataset or research project that produced it. (Include both if applicable.)</li>
+<li><b>Creator(s)</b>: Names and addresses of the group that created the data. This could be an individual or organization.</li>
+<li><b>Identifier</b>: Unique identifier or number that is used to identify the data. This could be an internal project number or code to reference the data.</li>
+<li><b>Abstract or Description</b>: A brief synopsis of the project or data that another researcher can review quickly to see the relevance of the project to what they are seeking.</li>
+<li><b>Dates</b>: All the dates associated with the project.  The most important is probably the release date of the data, but you'll eventually want to include start and end date of the project, time period covered by the data or project,  maintenance cycle of the data, update schedule of the data, and any other important dates that will help document the process and aid in preservation.</li>
+<li><b>Rights</b>: Any known intellectual property rights held for the data or project.</li>
+</ul>
+
+<h3>Recommended fields</h3>
+
+<ul>
+<li>Contributor(s): Names and addresses of additional individuals that contributed to the project.</li>
+<li>Subject: Keywords, phrases, or subject headings that will describe the subject or content of the data. In adding these, think of how you would search for the materials.</li>
+<li>Funders: Organizations or agencies that funded the research or project.</li>
+<li>Access Information: The location of the data and how the researcher can access the materials. Confidentiality can be addressed here as well.</li>
+<li>Language: The language(s) of the content.</li>
+<li>Location: If the data relates to a physical location, the spatial coverage should be documented.</li>
+<li>Methodology: The process of how the data was generated, include the equipment software used including the version, the experimental protocol, data validation and quality assurance of the data, and other information that would be documented during the process.</li>
+<li>Data Processing: Documenting the alterations made to the data will aid in preservation of the data and record who made changes and for what reasons at specific times.</li>
+<li>Sources: Citations for the sources that were used during the project. Include where the other data or material was stored and how it was accessed when appropriate.</li>
+<li>List of File Names: List all of the data files associated with the project and include the file extensions. (Example: stone.mov)</li>
+<li>File Formats: Format(s) of the data and any software that is required to read the data including the version. (Example: TIFF, FITS, JPEG, HTML)</li>
+<li>File Structure: Organization of the data file(s) and the layout of the variables when applicable.</li>
+<li>Variable List: List of variables in the data files, when applicable.</li>
+<li>Code Lists: Explanation of codes or abbreviations used in the file names, variables of the data, or the project over all that will help the user understand the project. (Example: 999 indicates a missing value in the data)</li>
+<li>Versions: Date/time stamp for each file and use a separate identifier for each version.</li>
+<li>Checksums: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
+<li>Related Materials: Links or location of materials that are related to the project. (Examples:
+Articles, presentations, papers)</li>
+<li>Citation:The recommended way to cite the data or the information needed.</li>
+</ul>
 
-<p>Recommended Fields to Augment Discovery:</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Title:<span style='mso-tab-count:1'>&nbsp;&nbsp; </span> <span
-style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Name
-of dataset or research project that produced it. (Include both if</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>applicable</span>)</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Creator(s):<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Names
-and addresses of the group that created the data. This could be </p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>an</span> individual or organization.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Contributor(s):<span style="mso-spacerun:yes">&nbsp;
-</span>Names and addresses of additional individuals that contributed to the
-project.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Identifier:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Unique
-identifier or number that is used to identify the data. This</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>could</span> be an internal project number or code to reference the
-data.</p>
-
-<p>Abstract or</p>
-
-<p>Description:<span style='mso-tab-count:1'>&nbsp;&nbsp; </span>A
-brief synopsis of the project or data that another researcher can</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>review</span> quickly to see the relevance of the project to what
-they are</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>seeking</span>.<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Subject:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Keywords,
-phrases, or subject headings that will describe </p>
-
-<p style='margin-left:1.0in'><span class=GramE>the</span>
-subject or content of the data. In adding these, think of how you would search
-for the materials.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Funders:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Organizations
-or agencies that funded the research or project.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Rights:<span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Any
-known intellectual property rights held for the data or project. </p>
-
-<p>Access</p>
-
-<p>Information:<span style='mso-tab-count:1'>&nbsp; </span>The
-location of the data and how the researcher can access the</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>materials</span>. Confidentiality can be addressed here as well.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Language:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
-language(s) of the content.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Dates:<span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
-dates associated with the project including the start and end date </p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>of</span> the project, time period covered by the data or project,
-the release</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>date</span> of the data, maintenance cycle of the data, update
-schedule of the</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>data</span>, and other important dates that will help document the
-process</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>and</span> aid in preservation.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Location:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If
-the data relates to a physical location, the spatial coverage should</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>be</span> documented.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Methodology:<span style='mso-tab-count:1'> </span> The
-process of how the data was generated, include the equipment</p>
-
-<p style='margin-left:1.0in'><span class=GramE>software</span>
-used including the version, the experimental protocol, data validation and
-quality assurance of the data, and other information</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>that</span> would be documented during the process.</p>
-
-<p>Data </p>
-
-<p>Processing:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp; </span>Documenting
-the alterations made to the data will aid in </p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>preservation</span> of the data and record who made changes and for
-</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>what</span> reasons at specific times.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Sources:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Citations
-for the sources that were used during the project. Include</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>where</span> the other data or material was stored and how it was
-accessed</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>when</span> appropriate.</p>
-
-<p>List of File</p>
-
-<p>Names:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>List
-all of the data files associated with the project and include the file</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>extensions</span>. (Example: stone.mov)</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>File Formats:<span style='mso-tab-count:1'>&nbsp; </span>Format(s)
-of the data and any software that is required to read the</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>data</span> including the version. (Example: TIFF, FITS, JPEG, <span
-class=GramE>HTML</span>)</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>File Structure: Organization of the data file(s) and the
-layout of the variables when</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>applicable</span>.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Variable List:<span style='mso-tab-count:1'>&nbsp; </span>List
-of variables in the data files, when applicable.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Code Lists:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Explanation
-of codes or abbreviations used in the file names, variables</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>of</span> the data, or the project over all that will help the user
-understand</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>the</span> project. (Example: 999 <span class=GramE>indicates</span>
-a missing value in the data)</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Versions:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Date/time
-stamp for each file and use a separate identifier for each</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>version</span>.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Checksums:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp; </span>Used
-to test if your file has changed over time. This will aid in the long</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>term</span> preservation of the data and help make it secure by
-tracking</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>alterations</span>.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Related</p>
-
-<p>Materials:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Links
-or location of materials that are related to the project.</p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(Examples:
-Articles, presentations, papers)</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p>Recommended</p>
-
-<p>Citation:<span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>The
-recommended way to cite the data or the information needed </p>
-
-<p><span style='mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-class=GramE>for</span> the citation.</p>
-
-<p><o:p>&nbsp;</o:p></p>
-
-<p><o:p>&nbsp;</o:p></p>	
 
 <!-- TemplateEndEditable -->
       </div>
