@@ -53,8 +53,25 @@
               <!-- TemplateEndEditable -->
             </hgroup>
             <!-- TemplateBeginEditable name="left-column-content" -->
-            <h3>Management of Intellectual Property</h3>
-            <p>Patents, copyrights and other forms of intellectual
+<h3>Management of Intellectual Property and Ethical Conduct</h3>
+
+<p>The Office of the Vice President for Research, through its Research Compliance Program "administers the Intellectual Property policy for the University. Where actions or decisions in the policy are to be to taken by the University, this Office, with advice from the Committee on Intellectual Property and the Office of General Counsel where appropriate, will have ultimate responsibility" (Intellectual Property Policy, last reviewed September, 2006).  See the <a href="http://or.nd.edu/compliance/research-compliance/">Research Compliance</a> Web site.</p>
+
+<p>Sharing data that you have collected from other sources:</p>
+            <ul type="disc">
+              <li>Data from Library provided databases: Most
+              databases to which the Hesburgh Libraries subscribe
+              are licensed and carry
+              restrictions on use, but many do permit
+              educational and research use, which allows for
+              sharing limited portions of data. For more
+              information on terms of use for databases licensed by
+              the Libraries, contact Andrea Langhurst, Associate
+              Librarian, 574-631-9809, 
+              <a href="mailto:langhurst.1@nd.edu">langhurst.1@nd.edu</a>.</li>
+            </ul>
+
+<!--            <p>Patents, copyrights and other forms of intellectual
             property deriving from University Research are managed
             under the
             <a href="http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf"
@@ -202,6 +219,7 @@
             research and before a research award can be
             accepted.</p>
             <p>*Note: Laws about data vary outside the U.S.</p>
+ -->
             <!-- TemplateEndEditable -->
           </div>
           <!-- End #single-col -->
