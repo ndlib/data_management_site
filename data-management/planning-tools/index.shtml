@@ -34,57 +34,41 @@ Research Data Planning Tools
         <hgroup id="pg-title">
         <!-- TemplateBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
-        <h2>Research Data Planning Tools</h2>
+<h2>Data Management Planning Tools</h2>
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
-<p>
-Listed below are some resources intended to help you write a data management plan for your research project---we encourage you to use them! 
-We can review your data management plan prior to inclusion in the final proposal. To avail yourself of this free service, please forward a copy of your draft plan to (link to listserv). Please contact us at least two weeks before your deadline to ensure that we have adequate time to review your plan.
+<p>Listed below are some resources intended to help you write a data management plan for your research project. Your sponsor may also have templates/samples for your use.  Our team (link to listserv here) can review your data management plan prior to inclusion in your final proposal. Please forward a copy of your draft plan to us (link to listserv). Please contact us at least two weeks before your deadline to ensure that there's adequate time to review your plan.
 </p>
-	
+
         <h3>Components of data management plans</h3>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
-</p>
+<p>Here are the most important components of a data management plan:</p>
+<ul>
+    <li>Information about data and data format</li>
+    <li>Metadata content and format</li>
+    <li>Policies for access, sharing, and re-use</li>
+    <li>Long-term storage and data management</li>
+    <li>Budget</li>
+</ul>
 
-        <h3>DMPTool</h3>
-<p>The DMP Tool is a flexible online tool that allows users to create data management plans for specific funding agencies, including the National Science Foundation (generic and directorate-specific), the National Institutes of Health, the National Oceanic and Atmospheric Administration, and the Institute of Museum and Library services, among others. The tool was developed by a partnership of major research institutions as a direct response to demands from grant funding agencies that researchers plan for managing their research data. DMP Tool: https://dmp.cdlib.org/</p>
+<h3>DMPTool</h3>
+<p>The <a href="https://dmp.cdlib.org/">DMP Tool</a> is a flexible online tool that allows users to create data management plans for specific funding agencies, including the National Science Foundation (generic and directorate-specific), the National Institutes of Health, the National Oceanic and Atmospheric Administration, and the Institute of Museum and Library services, among others. The tool was developed by a partnership of major research institutions as a direct response to demands from grant funding agencies that researchers plan for managing their research data.</p>
 
-<h3>Inter-University Consortium for Political and Social Research (ICPSR)</h3>  
-<p>The ICPSR provides a very useful framework that can be used as an outline in assembling data management plans to accompany grant applications:
-http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html</p>
+<h3>Inter-University Consortium for Political and Social Research (ICPSR)</h3>
+<p>The <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">ICPSR</a> provides a very useful framework that can be used as an outline in assembling data management plans to accompany grant applications.</p>
 
-        <h3>Templates/samples from various funding agencies/directorates.</h3>
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+        <h3>Example data management plans (DMPs) and other resources</h3>
+<ul>
+<li>Example DMP by DataONE: https://www.dataone.org/data-management-planning</li>
+<li>Example DMPs in proposals submitted to the NSF by researchers at UC San Diego: http://rci.ucsd.edu/dmp/examples.html</li>
+<li>Example DMPs by members of the Faculty Senate's Research Committee at Rice University: http://comp.rice.edu/WorkArea/DownloadAsset.aspx?id=518</li>
+<li>Example DMP from the University of Virginia's Odum Institute for Research in Social Science: http://www.odum.unc.edu/odum/contentSubpage.jsp?nodeid=570</li>
+<li>Commented DMP provided by the University of Michigan College of Engineering: http://deepblue.lib.umich.edu/handle/2027.42/86586?mode=simple&submit_simple=Show+simple+item+record</li>
+<li>DMP Self-Assessment Tool, provided by Purdue University Libraries:
+https://research.hub.purdue.edu/resources/7</li>
+<li>MIT Data Management Guide http://libraries.mit.edu/guides/subjects/data-management/guides.html</li>
+</ul>
 
-        <h3>Example data management plans (DMPs) and other
-resources</h3>
-<p>Example DMP by DataONE: https://www.dataone.org/data-management-planning</p>
-<p>Example DMPs in proposals submitted to the NSF by researchers at UC San Diego: http://rci.ucsd.edu/dmp/examples.html</p> 
-<p>Example DMPs by members of the Faculty Senate's Research Committee at Rice University: http://comp.rice.edu/WorkArea/DownloadAsset.aspx?id=518</p> 
-<p>Example DMP from the University of Virginia's Odum Institute for Research in Social Science: http://www.odum.unc.edu/odum/contentSubpage.jsp?nodeid=570</p> 
-<p>Commented DMP provided by the University of Michigan College of Engineering: http://deepblue.lib.umich.edu/handle/2027.42/86586?mode=simple&submit_simple=Show+simple+item+record</p>
-<p>DMP Self-Assessment Tool, provided by Purdue University Libraries:
-https://research.hub.purdue.edu/resources/7</p>
-<p>MIT Data Management Guide http://libraries.mit.edu/guides/subjects/data-management/guides.html</p>
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
