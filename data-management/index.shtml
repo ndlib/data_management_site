@@ -6,20 +6,235 @@
 	<!-- TemplateBeginEditable name="doctitle" --><title>Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
+			<link href="/css/grid.css" media="screen,projection" rel="stylesheet" type="text/css" />
+		<link href="/css/superfish.css" media="screen,projection" rel="stylesheet" type="text/css" />
+		<link href="/css/colorbox.css" media="screen,projection" rel="stylesheet" type="text/css" />
+		<link href="/css/main.css" media="screen,projection" rel="stylesheet" type="text/css" />		
+		<link href="/local_css/local.css?v=1.1" media="screen,projection" rel="stylesheet" type="text/css" />
+		<link href="/local_css/mobile.css" media="screen,projection" rel="stylesheet" type="text/css" />
+		<meta name="viewport" content="width=device-width" />
+			<script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+
+		<script type="text/javascript" src="/js/superfish.js"></script>
+		<script type="text/javascript" src="/js/jquery.colorbox-min.js"></script>
+		<script type="text/javascript" src="/js/hoverIntent.js"></script>
+		<script type="text/javascript" src="/js/simplegallery.js"></script>
+		<script type="text/javascript" src="/js/main.js"></script>
+		<script type="text/javascript" src="/local_js/local.js"></script>
   <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
   <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
 </head>
 <body>
 	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
+		<ul id="skip_links">
+    	<li><a href="#content" accesskey="S" title="Shorcut key to skip content = S">Skip To Content</a></li>
+    	<li><a href="#nav">Skip To Navigation</a></li>
+  	</ul>
 		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
+		<!-- span id="tell-us" class="tell-us"><a href="http://www.library.nd.edu/feedback.php"><img src="/css/images/tellus.png" alt="Tell us what you think" border="0" /></a></span -->
+<div>
+<h4>
+	<a href="/">Hesburgh Libraries</a>
+</h4>
+
+<h3>
+  <a href="http://nd.edu/">University of Notre Dame</a>
+</h3>
+</div>
+<div class="header_search">
+<form action="http://search.nd.edu/search" method="get"  enctype="application/x-www-form-urlencoded" accept-charset="utf-8" name="myform" id="myform">
+      <fieldset>
+        <span class="legend">Website search</span>
+        <input tabindex="11" type="text" class="srch-box long" id="search_field"  name="q" value="" onkeydown="" accesskey="s" />
+	    <input type="hidden" id="proxystylesheet" name="proxystylesheet" value="lib_site_srch" />
+        <input type="hidden" id="output" name="output" value="xml_no_dtd"/>
+        <input type="hidden" id="client" name="client" value="lib_site_srch"/>
+        <input type="hidden" id="site" name="site" value="library"/>
+        <button type="submit" class="searchbtn"><!--Search--> &raquo;</button>
+</fieldset>
+	</form>
+</div>
+
 	</div>
 	<!-- End #header -->
 	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
+	<ul id="nav" class="sf-menu">
+	<li class="left"><a href="http://www.library.nd.edu/srch-find/" title="Information resources">Search & Find</a>
+<ul>
+      <li><a href="http://catalogplus.library.nd.edu/primo_library/libweb/action/search.do?dscnt=1&frbg=&tab=onesearch">OneSearch</a></li>
+      <li><a href="#">Books</a>
+			<ul>
+				<li><a href="http://primo.library.nd.edu:1701/primo_library/libweb/action/search.do?vid=NDU&tab=nd_campus&mode=Advanced&reset_config=true">ND Catalog</a></li>
+				<li><a href="http://eresources.library.nd.edu/databases/worldcat">WorldCat</a></li>
+				<li class="last"><a href="http://www.library.nd.edu/srch-find/catalogs.shtml">More library catalogs</a></li>
+			</ul></li>
+
+		<li><a href="#">Articles</a>
+			<ul><li><a href="http://www.library.nd.edu/eresources/quicksearch/quicksearch.cgi?interface=advanced&subject=genmul&search_type=subject">Article QuickSearch</a></li>
+          <li><a href="http://www.library.nd.edu/find_articles/index.shtml#tab_tad">Selected article databases</a></li>
+          <li><a href="http://www.library.nd.edu/find_articles/index.shtml#tab_dbsub">Article databases by subject</a></li>
+			<li class="last"><a href="http://eresources.library.nd.edu/databases/googlescholar">Google Scholar</a></li>
+			</ul></li>
+
+      <li><a href="#">Journals</a>
+			<ul>
+          <li><a href="http://www.library.nd.edu/find_journals/ejournals.php">e-Journal locator</a></li>
+          <li><a href="http://www.library.nd.edu/find_journals/ejournal_subjects.php">e-Journals by category</a></li>
+			<li><a href="http://www.library.nd.edu/find_journals/all_journals.shtml">All journals (print, electronic, microform)</a></li>
+			<li class="last"><a href="http://www.library.nd.edu/find_journals/all_collections.shtml">e-Journal collections</a></li>
+			</ul></li>
+
+    <li><a href="http://www.library.nd.edu/help/find-ebooks.shtml">e-Books</a></li>
+    <li><a class="tab_sel" href="http://www.library.nd.edu/find_articles/index.shtml#tab_news">Newspapers</a></li>
+    <li><a href="/reference/govdocs.shtml">Government Information</a></li>
+    <li><a href="http://guides.library.nd.edu/subject-guide/18-Datasets-Statistics">Datasets &amp; Statistics</a></li>
+
+		<li><a href="https://www.library.nd.edu/reserves/ereserves/">Reserves</a></li>
+
+		<li><a href="https://nd.illiad.oclc.org/illiad/IND/logon.html">Interlibrary loan</a></li>
+
+		<li><a href="https://nd.illiad.oclc.org/illiad/IND/logon.html">Document delivery</a></li>
+
+		<li><a href="#">e-Reference shelf</a>
+			<ul>
+          <li><a href="http://guides.library.nd.edu/subject-guide/81-e-Reference-Shelf?tab=830">Dictionaries</a></li>
+          <li><a href="http://guides.library.nd.edu/subject-guide/81-e-Reference-Shelf?tab=829">Encyclopedias</a></li>
+          <li><a href="http://guides.library.nd.edu/subject-guide/81-e-Reference-Shelf?tab=831">Biographies</a></li>
+			<li class="last"><a href="http://guides.library.nd.edu/subject-guide/81-e-Reference-Shelf">more...</a></li>
+			</ul></li>
+
+      
+	<li><a href="#">Subjects A-Z</a>
+        <ul>
+          <li><a href="http://www.library.nd.edu/subjects/psychology">Psychology</a></li>
+          <li><a href="http://www.library.nd.edu/subjects/theology_and_religion">Theology &amp; Religion</a></li>
+          <li><a href="http://www.library.nd.edu/subjects/music">Music</a></li>
+          <li><a href="http://www.library.nd.edu/subjects/philosophy">Philosophy</a></li>
+          <li><a href="http://www.library.nd.edu/subjects/medieval_studies">Medieval Studies</a></li>
+          <li class="last"><a href="http://www.library.nd.edu/subjects/">[more]</a></li>
+        </ul>
+      </li>
+      <li id="dbsaz"><a href="#">Resources A-Z</a>
+				
+        <p class="list" >
+          <a href="http://www.library.nd.edu/alpha/a">A</a>
+          <a href="http://www.library.nd.edu/alpha/b">B</a>
+          <a href="http://www.library.nd.edu/alpha/c">C</a>
+          <a href="http://www.library.nd.edu/alpha/d">D</a>
+          <a href="http://www.library.nd.edu/alpha/e">E</a>
+          <a href="http://www.library.nd.edu/alpha/f">F</a>
+          <a href="http://www.library.nd.edu/alpha/g">G</a>
+          <a href="http://www.library.nd.edu/alpha/h">H</a>
+          <a href="http://www.library.nd.edu/alpha/i">I</a>
+          <a href="http://www.library.nd.edu/alpha/j">J</a>
+          <a href="http://www.library.nd.edu/alpha/k">K</a>
+          <a href="http://www.library.nd.edu/alpha/l">L</a>
+          <a href="http://www.library.nd.edu/alpha/m">M</a>
+          <a href="http://www.library.nd.edu/alpha/n">N</a>
+          <a href="http://www.library.nd.edu/alpha/o">O</a>
+          <a href="http://www.library.nd.edu/alpha/p">P</a>
+          <a href="http://www.library.nd.edu/alpha/q">Q</a>
+          <a href="http://www.library.nd.edu/alpha/r">R</a>
+          <a href="http://www.library.nd.edu/alpha/s">S</a>
+          <a href="http://www.library.nd.edu/alpha/t">T</a>
+          <a href="http://www.library.nd.edu/alpha/u">U</a>
+          <a href="http://www.library.nd.edu/alpha/v">V</a>
+          <a href="http://www.library.nd.edu/alpha/w">W</a>
+          <a href="http://www.library.nd.edu/alpha/x">X</a>
+          <a href="http://www.library.nd.edu/alpha/y">Y</a>
+          <a href="http://www.library.nd.edu/alpha/z">Z</a>
+          <a href="http://www.library.nd.edu/alpha/0">0-9</a>
+        </p>
+      </li>
+		<li class="last"><a href="http://www.library.nd.edu/srch-find/">more...</a></li>
+    </ul>
+  </li>
+	  <li><a href="/help/" title="Get answers to questions, library instruction, tips to get you started">Help &amp; Guides</a>
+  <ul>
+      <li><a href="/fys/">Starting your research</a></li>
+    	<li><a href="/reference/faq/">How do I / FAQ</a></li>
+      <li><a href="http://wwwtest.library.nd.edu/directory/subjects">Contact a subject librarian</a></li>
+      <li><a href="http://guides.library.nd.edu/">Course guides &amp; Research guides</a></li>
+		<li><a href="#">I need to find...</a>
+			<ul>
+				<li><a href="/help/find-articles.shtml">Articles</a></li>
+				<li><a href="/help/find-books.shtml">Books</a></li>
+				<li><a href="/help/find-dvds.shtml">DVDs &amp; videorecordings</a></li>
+				<li><a href="/help/find-ebooks.shtml">e-Books</a></li>
+				<li><a href="/help/find-ejournals.shtml">e-Journals</a></li>
+				<li><a href="/help/find-gov-info.shtml">Government information</a></li>
+				<li><a href="/help/find-images.shtml">Images</a></li>
+				<li><a href="/colldev/subject_home_pages/english/leisurereading/">Leisure reading materials</a></li>
+				<li><a href="/help/find-maps.shtml">Maps</a></li>
+				<li><a href="/help/find-new.shtml">New acquisitions</a></li>
+				<li><a href="/help/find-theses.shtml">Theses &amp; dissertations</a></li>
+			</ul></li>
+		<li><a href="/help/plagiarism.shtml">Avoiding plagiarism</a></li>
+      <li><a href="/help/citing-sources.shtml">Citing sources</a></li>
+		<li><a href="http://eresources.library.nd.edu/databases/refworks">RefWorks</a></li>
+    	<li><a href="/instruction/forms/consultation/">Schedule a research consultation</a></li>
+		<li><a href="#">Services for...</a>
+			<ul>
+				<li><a href="/help/undergrads.shtml">Undergraduate students</a></li>
+				<li><a href="/help/grads.shtml">Graduate students</a></li>
+				<li><a href="/help/faculty.shtml">Faculty</a></li>
+				<li><a href="/help/study-abroad">ND students studying abroad</a></li>
+				<li><a href="/help/disabilities.shtml">Students with disabilities</a></li>
+				<li><a href="/help/visitors.shtml">Visitors</a></li>
+			</ul></li>
+      <li><a href="/reference/ask/forms.shtml">Ask a Librarian</a></li>
+		<li class="last"><a href="/help/">more...</a></li>
+  </ul>
+  </li>
+  	  <li><a href="http://wwwtest.library.nd.edu/lib-colls/" title="What the library can do for you">Libraries & Collections</a>
+    <ul>
+        <li><a href="http://architecture.library.nd.edu/">Architecture Library</a>  </li>
+        <li><a href="http://vrc.library.nd.edu/">Visual Resources Center</a>  </li>
+        <li><a href="http://bic.library.nd.edu/">Business Information Center</a>  </li>
+        <li><a href="http://chemistry.library.nd.edu/">Chemistry - Physics Library</a>  </li>
+        <li><a href="http://engineering.library.nd.edu/">Engineering Library</a>  </li>
+			<li><a href="http://www.library.nd.edu/">Hesburgh Libraries</a></li>
+        <li><a href="http://kkic.library.nd.edu/">Kellogg/Kroc Library Information Center</a>  </li>
+        <li><a href="http://mathematics.library.nd.edu/">O'Meara Mathematics Library</a>  </li>
+        <li><a href="http://medieval.library.nd.edu/">Medieval Institute</a>  </li>
+			<li><a href="http://www.library.nd.edu/media/">Music and Media Services Unit</a></li>
+        <li><a href="http://radlab.library.nd.edu/">Radiation Chemistry Reading Room</a>  </li>
+        <li><a href="http://www.library.nd.edu/rarebooks/">Rare Books &amp; Special Collections</a></li>
+	<li><a href="http://archives.nd.edu/">Archives, University of Notre Dame</a></li>
+	<li class="last"><a href="http://www.library.nd.edu/lib-colls/">more...</a></li>
+    </ul>
+  </li>
+	  <li><a href="/about/index.shtml" title="Information about the Libraries">About the Libraries</a>
+    <ul>
+		<li><a href="/about/hours/">Hours</a></li>
+  <li><a href="/about/maps/index.shtml">Maps &amp; locations</a>
+			<ul>
+      		<li><a href="/about/maps/locations.shtml">Locations of the libraries of ND</a></li>
+				<li><a href="/about/maps/campus.shtml">ND map and surrounding area</a></li>
+		      <li><a href="http://bic.library.nd.edu/about/documents/biclayout.pdf">Business Information Center floor plan</a></li>
+      		<li><a href="http://engineering.library.nd.edu/about/library_map.shtml">Engineering Library floor plan</a></li>
+      		<li><a href="/about/maps/hesburgh_maps.shtml">Hesburgh Library floor plans</a></li>
+      		<li><a href="/about/maps/lclist.shtml">Hesburgh Research Tower call numbers</a></li>
+		      <li><a href="http://www.nd.edu/~ndspd/parkrules2007.pdf">Campus parking map (pdf)</a></li>
+				<li class="last"><a href="http://cce.nd.edu/travelers.shtml">Directions to campus</a></li>
+			</ul></li>
+      <li><a href="/circulation/">Borrow, Renew, Recall</a></li>
+      <li><a href="/about/employment/">Employment</a></li>
+      <li><a href="/directory/employees">Staff directory</a></li>
+		<li><a href="/directory/departments">Department directory</a></li>
+		<li><a href="/about/myaccount.shtml">My Accounts</a></li>
+      <li><a href="/instruction/">Instruction, workshops, tours</a></li>
+      <li><a href="/about/computing.shtml">Computers, scanners, study rooms</a></li>
+      <li><a href="/advancement/">Library Advancement</a></li>
+      <li><a href="/ucl/">University Committee on Libraries</a></li>
+		<li class="last"><a href="/about/">more...</a></li>
+  </ul>
+  </li>
+	   <li><a href="http://asklib.nd.edu/" title="Options for getting help from a librarian" class="icon-person">Ask a Librarian</a></li>
+</ul>
+
 	</div>
 	<!-- End #main-menu -->
 	<div id="content_wrapper" class="outter">
@@ -28,7 +243,19 @@
 <a href="/">Hesburgh Library </a> &gt;
 Data Management
 <!-- TemplateEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+      <div class="span-7">
+  <ul id="left-nav">
+    <li><a href="/data-management/">Data Management Home</a></li>
+    <li><a href="/data-management/what-is-research-data/">What is Research Data?</a></li>
+    <li><a href="/data-management/why-manage-your-data/">Why Manage Your Research Data?</a></li>
+    <li><a href="/data-management/identify-your-needs/">Identifying Your Needs</a></li>
+    <li><a href="/data-management/planning-tools/">Data Management Planning Tools</a></li>
+    <li><a href="/data-management/documentation/">Documentation &amp; Metadata</a></li>
+    <li><a href="/data-management/sharing-and-archiving/">Sharing &amp; Archiving Your Data</a></li>
+    <li><a href="/data-management/intellectual-property/">Intellectual Property &amp; Ethical Conduct</a></li>
+  </ul>
+</div>
+
       <div id="single-col" class="column span-16 append-1 last">
         <hgroup id="pg-title">
         <!-- TemplateBeginEditable name="pg-title" -->
@@ -37,79 +264,30 @@ Data Management
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-      <h3>Consult throughout data lifecycle</h3>
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus condimentum
-  felis quis diam varius a molestie metus pellentesque. Nunc at est sed felis
-  vestibulum pellentesque sit amet sit amet ante. Fusce tincidunt semper mattis.
-  Mauris vel pretium sem. Aenean lacus purus, lacinia a ultrices non, posuere non
-  justo. Nunc a massa massa, non blandit lectus. Duis id purus lorem. Ut imperdiet
-  convallis lectus, nec pretium urna viverra nec.
+      <h3>We provide a range of services supporting creators and users of data for research and teaching</h3>
+      <h3>Consult throughout data lifecycle.  Start by consulting the University's policy on <a href="http://or.nd.edu/policies-and-procedures/procedures/data-retention-and-access/" title="Data Retention and Access">Data Retention and Access</a></h3>
+<p> Data management is not just important at the end of your research, but is important throughout the lifecycle of your research project. There are many groups and resources on and off campus that can help you write a data management plan and help manage your data throughout its lifecycle. 
 </p>
+<p align="left">Our team can help you with recommendations on metadata  	standards, policies for accessing and sharing your data,  	policies for re-use and distribution of your data, plans  	for data storage, archiving and preserving your data, and more. To request assistance, please contact our data management  	planning team (link to listserv). See: <a href="../data-management/identify-your-needs/index.shtml" title="Your Data Management Needs">Identifying Your Data Management Needs</a> .</p> 
 
       <h3>Help with data management plans</h3>
-<p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+<p>The NSF and many other other sponsors now require that all grant applications include a data management plan. We can save you time by helping you develop high quality data management plans tailored for your individual grant applications. High quality data management plans may improve the competitiveness of your grant. See: <a href="../data-management/planning-tools/index.shtml" title="Data Management Planning Tools">Data Management Plans</a> for more information. </p>
 
-      <h3>Help with metadata</h3>
-<p>
-  Sed id nisi lacus, quis volutpat quam. Proin ipsum sem, adipiscing dignissim
-  sodales vel, fermentum vitae enim. Nullam eu justo sed mi porttitor tempus ut ut
-  ligula. Nulla semper, est et aliquam pharetra, massa ante interdum ante, quis
-  fermentum justo augue sed elit. Etiam eu viverra sapien. Vestibulum et suscipit
-  libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-  inceptos himenaeos. Fusce neque nulla, cursus vel bibendum fermentum, adipiscing
-  vel enim. Aliquam egestas est non nisi viverra sagittis. In ac nisl tellus. Sed
-  aliquam tempus lectus tempor mattis. Morbi vestibulum neque aliquam erat
-  eleifend dictum. Nunc tempor scelerisque justo, et vestibulum nulla vehicula
-  vel. Phasellus sit amet risus posuere tellus tempus dictum. Ut in nulla lectus,
-  sit amet semper lectus.
-</p>
+      <h3>Help with data documentation and metadata</h3>
+<p>Data documentation is the primary metadata related to a research project that assists in the organization, discovery, and ease of use in the  future. In order for your data to be used properly by you, your colleagues,          and other researchers, they must be documented.  Data          documentation (also known as metadata) enables you understand your data          in detail and will enable other researchers to find, use and properly        cite your data. Metadata standards are created to facilitate searching similar items by using similar terms and constructs to describe them.
 
-      <h3>Help provide long-term access (archiving)</h3>
-<p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
-</p>
+For more information including how to provide adequate metadata for your research, see: <a href="../data-management/documentation/index.shtml" title="Documentation and Metadata ">Documentation and Metadata </a>.</p>
+<h3>Help provide long-term access (archiving).  See this page on <a href="http://wwwtest.library.nd.edu/data-management/sharing-and-archiving/">Sharing & Archiving</a></h3>
 
-      <h3>Help with citing (DOI, PURL)</h3>
+<h3>Help with citing (DOI, PURL) </h3>
 <p>
-  Sed sagittis, tellus nec imperdiet pulvinar, orci neque congue augue, nec
-  scelerisque dolor augue vitae massa. Morbi a orci dui. Mauris libero dolor,
-  porta in interdum vel, fringilla pharetra orci. Proin quis nulla augue. Praesent
-  at nisi sed est cursus varius vel eget neque. Nullam ligula arcu, adipiscing a
-  facilisis in, dignissim quis augue. Vivamus erat velit, luctus sit amet
-  hendrerit nec, auctor a eros. In consectetur vestibulum lectus eleifend congue.
-  Nam dictum, turpis nec vehicula vulputate, lacus tortor vulputate velit, non
-  suscipit enim risus quis enim. Phasellus ornare aliquet consequat. Suspendisse
-  facilisis tellus vel nisi interdum id congue mi dictum. Aliquam erat volutpat.
-  Nam id sem at eros sodales vehicula quis nec massa. Aenean rutrum porta dui, ut
-  rutrum leo vestibulum sed.
-</p>
+  Need a DOI (digital object identfier) for your data? We can issue a EZID DOI for your data. <a href="http://n2t.net/ezid/" title="EZID home page" target="new">EZID</a> (easy-eye-dee)    	makes it easy to create &amp; manage unique, long-term identifiers. Contact us to get an EZID. </p>
 
-      <h3>Workshops</h3>
+<p>DOI's are widely used in scientific publishing to cite journal articles, DOIs are persistent identifiers that provide long-term links to data sets and allow published articles to link to their underlying data. Need to know more? See: <a href="sharing-and-archiving/index.shtml" title="Sharing and Archiving Data">Sharing and Archiving Data</a>. </p>
+
+<h3>Workshops</h3>
 <p>
-  Pellentesque leo erat, vehicula at cursus adipiscing, posuere quis orci. Ut in
-  lacus purus, quis sollicitudin erat. Donec condimentum aliquam augue sit amet
-  volutpat. Nam ultricies vulputate mollis. Pellentesque dictum ultricies iaculis.
-  Donec augue nulla, posuere sed suscipit vitae, mattis sed enim. Donec ligula
-  lectus, posuere at vehicula at, adipiscing et ligula. Mauris lacinia dolor
-  malesuada nisi imperdiet sit amet porta velit tincidunt.
+  Our team also arranges workshops on a regular basis.  See this schedule <link here>.
 </p>
 
 				<!-- TemplateEndEditable -->
@@ -118,7 +296,32 @@ Data Management
 			</div>
 		<!-- End #content -->
 		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
+	<!-- BEGIN FOOTER DIV -->
+<div id="footer" class="outter">
+  <div class="mark span-5 prepend-1">
+    <a href="http://www.library.nd.edu"><img src="/images/hesburgh_mark.png" alt="Hesburgh Libraries logo" /></a>
+  </div>
+  <div class="span-13 footer-content">
+	   <p class="normal"><a href="http://nd.edu/">University of Notre Dame</a> | <a href="http://www.library.nd.edu/">Hesburgh Libraries</a></p>
+	<p class="normal"><a href="http://www.library.nd.edu/about/contacts.shtml">Contact information</a> | <a href="https://wiki.nd.edu/display/libintranet/Home">HesNet</a> <img src="/images/lock.gif"/> | <a href="http://m.library.nd.edu/">Mobile version</a></p>
+  </div>
+  <div class="mark span-5 last">
+      <a href="http://nd.edu"><img src="/images/ndmark.png" alt="University of Notre Dame logo" /></a>
+  </div>
+</div>
+<!-- END FOOTER DIV -->
+
+<script type="text/javascript">
+  var _gaq = [['_setAccount', 'UA-2118378-1'], ['_trackPageview']];
+  (function(d, t) {
+    var g = d.createElement(t),
+    s = d.getElementsByTagName(t)[0];
+    g.async = true;
+    g.src = '//www.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g, s);
+  })(document, 'script');
+</script>
+
 	</div>
   <!-- End #wrapper -->
 </body>
