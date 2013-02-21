@@ -61,21 +61,28 @@ models."</p>
 derived, or compiled. It can also come in many formats
 including, but not limited to:
 <ul>
-<li>Text files, pdfs, or Word documents</li>
-<li>Audio or video tapes</li>
-<li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+<li>No data produced - and thus no data management plan required</li>
+<li>Audio or video formats</li>
+<li>Codebooks</li>
+<li>Curriculum materials</li>
+<li>Databases</li>
+<li>Datasets</li>
+<li>Images (slides, jpegs, tiffs)</li>
 <li>Lab or field notebooks</li>
+<li>Log files, simulation software, schemas</li>
+<li>Models or algorithms</li>
+<li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+<li>Physical collections</li>
 <li>Protocols, procedures, workflows or methodologies</li>
 <li>Questionnaires or test responses</li>
-<li>Codebooks</li>
-<li>Images (slides, jpegs, tiffs)</li>
-<li>Models or algorithms</li>
-<li>Log files, simulation software, schemas</li>
-<li>Software</li>
+<li>Software, including programming language(s), operating system(s), etc.</li>
+<li>Text files, pdfs, or Word documents</li>
 </ul>
 </p>
 
-<p>If you're not sure whether what you have is considered research data for your particular sponsor, please feel free to contact our team (listserv here).  We can help you decide.</p>
+<p>In general, "raw data", i.e., form sensors or other instruments is not required to be archived because it falls under the category of "preliminary analysis."  NSF guidelinse, for example, require "analyzed data" as the basic level of digital data to be archived.</p>
+
+<p>If you're not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
