@@ -39,7 +39,7 @@ What is Research Data?
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p> Different sponsors have slightly different definitions of what data is.  Here are two examples.</p>
+<p> Different sponsors have slightly different definitions of what data is.  Here are three examples.</p>
 
 <p>For the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
 data is defined as the recorded factual material commonly
@@ -50,12 +50,14 @@ research, peer reviews, or communications with
 colleagues. This "recorded" material excludes physical objects
 (e.g., laboratory samples).” </p>
 
-<p> The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
+<p>The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
 constitutes such data will be determined by the community of
 interest through the process of peer review and program
 management. This may include, but is not limited to: data,
 publications, samples, physical collections, software and
 models."</p>
+
+<p>The <a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm#901">National Institutes of Health</a> answers the question in this way.  "By 'final research data', we mean recorded factual material commonly accepted in the scientific community as necessary to validate research findings. Final research data do not include laboratory notebooks, partial datasets, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as gels or laboratory specimens."</p>  
 
 <p>Research data can be observational, experimental, simulated,
 derived, or compiled. It can also come in many formats
