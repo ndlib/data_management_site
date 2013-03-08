@@ -39,7 +39,9 @@ What is Research Data?
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p> According to the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
+<p> Different sponsors have slightly different definitions of what data is.  Here are three examples.</p>
+
+<p>For the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
 data is defined as the recorded factual material commonly
 accepted in the scientific community as necessary to validate
 research findings, but not any of the following: preliminary
@@ -48,32 +50,41 @@ research, peer reviews, or communications with
 colleagues. This "recorded" material excludes physical objects
 (e.g., laboratory samples).” </p>
 
-<p> The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
+<p>The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
 constitutes such data will be determined by the community of
 interest through the process of peer review and program
 management. This may include, but is not limited to: data,
 publications, samples, physical collections, software and
 models."</p>
 
+<p>The <a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm#901">National Institutes of Health</a> answers the question in this way.  "By 'final research data', we mean recorded factual material commonly accepted in the scientific community as necessary to validate research findings. Final research data do not include laboratory notebooks, partial datasets, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as gels or laboratory specimens."</p>  
+
 <p>Research data can be observational, experimental, simulated,
 derived, or compiled. It can also come in many formats
 including, but not limited to:
 <ul>
-<li>Text files, pdfs, or Word documents</li>
-<li>Audio or video tapes</li>
-<li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+<li>No data produced - and thus no data management plan required</li>
+<li>Audio or video formats</li>
+<li>Codebooks</li>
+<li>Curriculum materials</li>
+<li>Databases</li>
+<li>Datasets</li>
+<li>Images (slides, jpegs, tiffs)</li>
 <li>Lab or field notebooks</li>
+<li>Log files, simulation software, schemas</li>
+<li>Models or algorithms</li>
+<li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+<li>Physical collections</li>
 <li>Protocols, procedures, workflows or methodologies</li>
 <li>Questionnaires or test responses</li>
-<li>Codebooks</li>
-<li>Images (slides, jpegs, tiffs)</li>
-<li>Models or algorithms</li>
-<li>Log files, simulation software, schemas</li>
-<li>Software</li>
+<li>Software, including programming language(s), operating system(s), etc.</li>
+<li>Text files, pdfs, or Word documents</li>
 </ul>
 </p>
 
-<p>If you're not sure whether what you have is considered research data, please feel free to contact our team (listserv here).  We can help you decide.</p>
+<p>In general, "raw data", i.e., form sensors or other instruments is not required to be archived because it falls under the category of "preliminary analysis."  NSF guidelinse, for example, require "analyzed data" as the basic level of digital data to be archived.</p>
+
+<p>If you're not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
