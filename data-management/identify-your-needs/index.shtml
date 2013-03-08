@@ -44,13 +44,13 @@ Identifying Your Needs
 <h3>The Data</h3>
 <ul>
 <li>What type of data is being produced?  Examples include numeric data, image data, text, modeling, geospatial, patents, etc.   What are the file formats?  Is the data being generated de novo, or is it being generated from another study/experiment?</li>
-<li>How much data will there be (megabytes, gigabytes, terabytes, etc.)?  How much will it grow?  How often will it change?<li>
+<li>How much data will there be (megabytes, gigabytes, terabytes, etc.)?  How much will it grow?  How often will it change?</li>
 </ul>
 
 <h3>Roles and Responsibilities</h3>
 <ul>
-<li>Who is responsible for collecting the data now?  The PI, the lab, the University, a consortium, other?  Who is currently responsible for data integrity and management?<li>
-<li>Who is your funder?  Does the organization have special data management requirements, including the need for a data management plan?<li>
+<li>Who is responsible for collecting the data now?  The PI, the lab, the University, a consortium, other?  Who is currently responsible for data integrity and management?</li>
+<li>Who is your funder?  Does the organization have special data management requirements, including the need for a data management plan?</li>
 </ul>
 
 <h3>Accessing and Using the Data</h3>
@@ -76,7 +76,7 @@ Identifying Your Needs
 <h3>Cost Estimate</h3>
 <ul>
 <li>What are the estimated costs of obtaining, preparing, documenting and archiving the data? Will all of these costs be covered by the funder?  If not, how will these costs be covered?</li>
-</ul> 
+</ul>
 
 <p> Our team can help you with recommendations on metadata
 standards, policies for accessing and sharing your data,
