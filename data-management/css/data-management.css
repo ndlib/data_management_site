@@ -69,3 +69,18 @@
   border-bottom:none;
   text-decoration:none;
 }
+
+figure,
+figcaption {
+  display:block;
+}
+
+blockquote p:last-child {
+  margin-bottom:0;
+}
+
+blockquote + figcaption {
+  margin-top:-1.5em;
+  margin-bottom:2em;
+  padding-left:2.25em;
+}
