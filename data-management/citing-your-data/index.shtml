@@ -59,13 +59,13 @@ Citing Your Data
         <p>
           DOIs (digital object identifiers) are widely used in scientific publishing to cite journal articles.
           They are persistent unique number combinations that can also provide long-term links to data sets.
-          The Hesburgh Libraries uses this tool XXX to assign your data a DOI.
+          The Hesburgh Libraries uses <a href="http://n2t.net/ezid">EZID</a> to assign your data a DOI.
         </p>
 
         <h4>Citation formats</h4>
         <p>
           Standards for citing data are emerging slowing.
-          DataCite has two very simple recommended formats: <a href="http://datacite.org/whycitedata">Examples of data citation</a>.
+          <a href="http://datacite.org/>DataCite</a> has two very simple recommended formats: <a href="http://datacite.org/whycitedata">Examples of data citation</a>.
           Our team can also help you create a format appropriate for your work.
         </p>
 
