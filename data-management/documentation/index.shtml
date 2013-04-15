@@ -39,7 +39,7 @@ Documentation <span class="amp">&nbsp;</span> Metadata
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p>Documentation will assist in the organization, discovery, and ease of use in the
+<p>Documentation will assist in the organization, discovery, and ease of use of your research data in the
 future. Metadata is "data about data"--descriptive information about a particular data set, object, or resource, including how it is formatted, and when and by whom it was collected. By adding metadata completely and carefully, it will ensure that the data is accessible for any user, and it will be easier for other
 researchers to cite your information.</p>
 
@@ -48,19 +48,19 @@ related to the project from the start. By documenting salient information early
 in the process, it will be much easier to ensure that all aspects of the project
 are relayed properly to your users. This will also aid in the long-term preservation
 of the data because it will show who was involved and what steps were taken
-to get to the results that you find.</p>
+to get to the results that you found.</p>
 
-<p><span class=GramE>A wide range of metadata standards exist</span>
+<p><span class=GramE>A wide range of metadata standards exists</span>
 for researchers to choose from to document their project. An example of a data
-standard is the DDI (Data Documentation Initiative), a standard designed for
+standard is the <a href="http://www.ddialliance.org/">DDI</a> (Data Documentation Initiative), a standard designed for
 numeric data. For further help in documenting your data please contact our team (link to listserv here).</p>
 
 <p>Below are some of the general guidelines that should be
 documented regardless of the discipline or project type. This metadata should
 be stored with the project data at the very least in a readme.txt file. If the
 information is included in an article or presentation, then you can reference
-that item so that the information can be accessed there. When filling out this
-information, think about how you would search for the same project, and be sure
+that item so that the information can be accessed there. When recording this
+information, think about how you would search for similar projects, and be sure
 to include that information so that other researchers in the field can easily
 access the materials.</p>
 
@@ -78,25 +78,25 @@ access the materials.</p>
 <h3>Recommended fields</h3>
 
 <ul>
-<li>Contributor(s): Names and addresses of additional individuals that contributed to the project.</li>
-<li>Subject: Keywords, phrases, or subject headings that will describe the subject or content of the data. In adding these, think of how you would search for the materials.</li>
-<li>Funders: Organizations or agencies that funded the research or project.</li>
-<li>Access Information: The location of the data and how the researcher can access the materials. Confidentiality can be addressed here as well.</li>
-<li>Language: The language(s) of the content.</li>
-<li>Location: If the data relates to a physical location, the spatial coverage should be documented.</li>
-<li>Methodology: The process of how the data was generated, include the equipment software used including the version, the experimental protocol, data validation and quality assurance of the data, and other information that would be documented during the process.</li>
-<li>Data Processing: Documenting the alterations made to the data will aid in preservation of the data and record who made changes and for what reasons at specific times.</li>
-<li>Sources: Citations for the sources that were used during the project. Include where the other data or material was stored and how it was accessed when appropriate.</li>
-<li>List of File Names: List all of the data files associated with the project and include the file extensions. (Example: stone.mov)</li>
-<li>File Formats: Format(s) of the data and any software that is required to read the data including the version. (Example: TIFF, FITS, JPEG, HTML)</li>
-<li>File Structure: Organization of the data file(s) and the layout of the variables when applicable.</li>
-<li>Variable List: List of variables in the data files, when applicable.</li>
-<li>Code Lists: Explanation of codes or abbreviations used in the file names, variables of the data, or the project over all that will help the user understand the project. (Example: 999 indicates a missing value in the data)</li>
-<li>Versions: Date/time stamp for each file and use a separate identifier for each version.</li>
-<li>Checksums: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
-<li>Related Materials: Links or location of materials that are related to the project. (Examples:
+<li><b>Contributor(s)</b>: Names and addresses of additional individuals that contributed to the project.</li>
+<li><b>Subject</b>: Keywords, phrases, or subject headings that will describe the subject or content of the data. In adding these, think of how you would search for the materials.</li>
+<li><b>Funders</b>: Organizations or agencies that funded the research or project.</li>
+<li><b>Access Information</b>: The location of the data and how the researcher can access the materials. Confidentiality can be addressed here as well.</li>
+<li><b>Language</b>: The language(s) of the content.</li>
+<li><b>Location</b>: If the data relates to a physical location, the spatial coverage should be documented.</li>
+<li><b>Methodology</b>: The process of how the data was generated, include the equipment software used including the version, the experimental protocol, data validation and quality assurance of the data, and other information that would be documented during the process.</li>
+<li><b>Data Processing</b>: Documenting the alterations made to the data will aid in preservation of the data and record who made changes and for what reasons at specific times.</li>
+<li><b>Sources</b>: Citations for the sources that were used during the project. Include where the other data or material was stored and how it was accessed when appropriate.</li>
+<li><b>List of File Names</b>: List all of the data files associated with the project and include the file extensions. (Example: stone.mov)</li>
+<li><b>File Formats</b>: Format(s) of the data and any software that is required to read the data including the version. (Example: TIFF, FITS, JPEG, HTML)</li>
+<li><b>File Structure</b>: Organization of the data file(s) and the layout of the variables when applicable.</li>
+<li><b>Variable List</b>: List of variables in the data files, when applicable.</li>
+<li><b>Code Lists</b>: Explanation of codes or abbreviations used in the file names, variables of the data, or the project over all that will help the user understand the project. (Example: 999 indicates a missing value in the data)</li>
+<li><b>Versions</b>: Date/time stamp for each file and use a separate identifier for each version.</li>
+<li><b>Checksums</b>: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
+<li><b>Related Materials</b>: Links or location of materials that are related to the project. (Examples:
 Articles, presentations, papers)</li>
-<li>Citation:The recommended way to cite the data or the information needed.</li>
+<li><b>Citation</b>:The recommended way to cite the data or the information needed.  Visting <a href="http://wwwtest.library.nd.edu/data-management/citing-your-data/">Citing Your Data</a> for more information.</li>
 </ul>
 
 
