@@ -38,7 +38,7 @@ Research Data Planning Tools
         <!-- TemplateEndEditable -->
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
-<p>Listed below are some resources intended to help you write a data management plan for your research project. Your sponsor may also have templates/samples for your use.  Please not that for the NIH and NSF the 2-page data managment plan does not count against the 15 page limit for your proposal. Our team (link to listserv here) can review your data management plan prior to inclusion in your final proposal. Please forward a copy of your draft plan to us (link to listserv). Please contact us at least two weeks before your deadline to ensure that there's adequate time to review your plan.
+<p>Listed below are some resources to help you write a data management plan for your research project. Your sponsor may also have templates/samples for your use.  Please note that for the NIH and NSF the 2-page data managment plan does not count against the 15 page limit for your proposal. Our team (link to listserv here) can review your data management plan prior to inclusion in your final proposal. Please forward a copy of your draft plan to us (link to listserv). Please contact us at least two weeks before your deadline to ensure that there's adequate time to review your plan.
 </p>
 
         <h3>Components of data management plans</h3>
@@ -51,7 +51,7 @@ Research Data Planning Tools
 </ul>
 
 <h3>Budget</h3>
-<p>For the NSF, the budget for managing your data can be added to your proposal (typically line G2, with an explanation in the budget justification).  See this section, Ch. II C 2 g Budget (b) Publication/Documentation/Dissemination, on this <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">page</a>.  This may be true for other sponsors - our team can help you check.</p>
+<p>For the NSF, the budget for managing your data can be added to your proposal (typically line G2, with an explanation in the budget justification).  See this <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">section</a> (Ch. II C 2 g Budget (b) Publication/Documentation/Dissemination).  This may be true for other sponsors - our team can help you check.</p>
 
 <h3>DMPTool</h3>
 <p>The <a href="https://dmp.cdlib.org/">DMP Tool</a> is a flexible online tool that allows users to create data management plans for specific funding agencies, including the National Science Foundation (generic and directorate-specific), the National Institutes of Health, the National Oceanic and Atmospheric Administration, and the Institute of Museum and Library services, among others. The tool was developed by a partnership of major research institutions as a direct response to demands from grant funding agencies that researchers plan for managing their research data.</p>
