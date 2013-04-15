@@ -39,7 +39,7 @@ What is Research Data?
         </hgroup>
         <!-- TemplateBeginEditable name="left-column-content" -->
 
-<p> Different sponsors have slightly different definitions of what data is.  Here are three examples.</p>
+<p> Different sponsors have slightly different definitions for research data.  Here are three examples.</p>
 
 <p>For the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
 data is defined as the recorded factual material commonly
@@ -60,7 +60,7 @@ models."</p>
 <p>The <a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm#901">National Institutes of Health</a> answers the question in this way.  "By 'final research data', we mean recorded factual material commonly accepted in the scientific community as necessary to validate research findings. Final research data do not include laboratory notebooks, partial datasets, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as gels or laboratory specimens."</p>  
 
 <p>Research data can be observational, experimental, simulated,
-derived, or compiled. It can also come in many formats
+derived, or compiled. Data can also come in many formats
 including, but not limited to:
 <ul>
 <li>No data produced - and thus no data management plan required</li>
@@ -82,9 +82,9 @@ including, but not limited to:
 </ul>
 </p>
 
-<p>In general, "raw data", i.e., form sensors or other instruments is not required to be archived because it falls under the category of "preliminary analysis."  NSF guidelinse, for example, require "analyzed data" as the basic level of digital data to be archived.</p>
+<p>In general, "raw data", i.e., data from sensors or other instruments does not require archiving because it falls under the category of "preliminary analysis."  NSF guidelines, for example, require "analyzed data" as the basic level of digital data to be archived.</p>
 
-<p>If you're not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
+<p>If you are not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
         <!-- TemplateEndEditable -->
       </div>
       <!-- End #single-col -->
