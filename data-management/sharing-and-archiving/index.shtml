@@ -51,18 +51,15 @@ Sharing <span class="amp">&amp;</span> Archiving
           <li>It may be required by a publisher to share and preserve
           access to related data</li>
           <li>Your sponsor ,may require you to share it. Many
-          funding agencies including NIH and NSF have
+          funding agencies, including NIH and NSF, have
           guidelines requiring you to share your data.</li>
-          <li>Your data can advance other research in the
-          area</li>
+          <li>Your data can advance research in other areas.</li>
           <li>Your work is more likely to be cited by others and
           increase your reputation within your discipline.</li>
           <li>The University may require you to preserve your data.</li>
         </ul>
 
-        <p>So, you'll probably want to archive and share your research as quickly and easily as possible. </p>
-
-        <h3>How can you archive your data?</h3>
+       <h3>How can you archive your data?</h3>
 
         <p>
         Depending on your needs, there are many options available for
@@ -77,7 +74,7 @@ Sharing <span class="amp">&amp;</span> Archiving
           <li><b>Your data lives on</b>: Your data is always safe
           whether you leave the University or not. The Hesburgh Libraries
           repository will preserve your content as long as needed.</li>
-          <li><b>Your data won't get lost or corrupted</b>:You have the peace of mind that
+          <li><b>Your data won't get lost or corrupted</b>: You have the peace of mind that
           your data will have multiple copies with regular integrity
           checking to ensure no files get corrupted.</li>
           <li><b>Your data won't become obsolete</b>: Your data can
@@ -85,44 +82,30 @@ Sharing <span class="amp">&amp;</span> Archiving
           used to open it is no longer available. We will ensure data is
           migrated and preserved in formats that ensure usability for the
           long term.</li>
-          <li><b>Your data is more secure</b>: If you need higher levels of security, please contact our team (link here)</li>
-          <li><b>Your data can be cited</b>: See the <a href="/data-management/citing-your-data/">Citing Your Data page</a></li>
+          <li><b>Your data is more secure</b>: If you need higher levels of security, please contact our team (link here).</li>
+          <li><b>Your data can be cited</b>: See the <a href="/data-management/citing-your-data/">Citing Your Data page</a>.</li>
           <li><b>Your data can be more easily shared and published</b>: Opt to share your data
-          with GoogleScholar or other search engines</li>
+          with <a href="http://eresources.library.nd.edu/databases/googlescholar">Google Scholar</a> or other search engines</li>
           <li><b>Your data has no discipline-specific repository</b>: There may not be a community based repository suited for your discipline or the concerns of your research project</li>
           <li><b>Your data may be owned by the University</b>: If the University owns some or all of the data, you may be required you to preserve it locally</li>
         </ul>
 
-        <p>To find out more, please contact our team (link to listserv here)</p>
+        <p>To find out more, please contact our team (link to listserv here).</p>
 
         <h3>Why archive your data in a discipline-specific repository?</h3>
         <ul>
-          <li>Your community maintains a trusted repository that better meets your needs</li>
-          <li>Your data will be archived alongside that of your peers</li>
-          <li>Your data's access needs are different from those that can be provided locally</li>
+          <li>Your community maintains a trusted repository that better meets your needs.</li>
+          <li>Your data will be archived with that of your peers.</li>
+          <li>Your data's access needs are different from those that can be provided locally.</li>
         </ul>
         <p><b>Note</b>: You may also want to link to your data in the Hesburgh Libraries'
         repository to further enhance sharing and preservation. Our team (link to listserv) can help you determine which archival solution is best.</p>
 
         <h3>Community Repository Options</h3>
-        <p>Don't know if you there's a repository for your research community?  Databib is a good place to start.
-        It's a searchable catalog / registry / directory / bibliography of research data repositories.  See <a href="http://databib.org/index.php">Databib's</a> Web site.  Our team (link to listserv)can also help you find discipline-specific repositories. </p>
+        <p>Don't know if you there's a repository for your research community?  <a href="http://databib.org/index.php">Databib</a> is a good place to start.
+        It's a searchable catalog / registry / directory / bibliography of research data repositories.  Our team (link to listserv)can also help you find discipline-specific repositories. </p>
 
-        <h3>Why make your data citable?</h3>
-        <p>
-        "Without evidential data nearly all research is simply a collection of un-supported assertions. In addition, many data have value beyond their original purpose, either as validation / reproducibility activity or as aggregated subunits of larger datasets. There is also increasing evidence that multi disciplinary reuse of data is occurring more often. In all these cases datasets become valuable research objects and constituents of professional impact." (See <a href="http://sagecite.knowledgeblog.org/2011/07/28/why-do-we-need-datacitation/">"So You Want to Cite your Data"</a>, July 28, 2011, : The Consequences of Data Citation
-        </p>
-
-        <h4>DOIs</h4>
-        <p>
-        DOIs (digital object identifiers) are widely used in scientific publishing to cite journal articles.  They are persistent unique number combinations that can also provide long-term links to data sets.  The Hesburgh Libraries uses this tool XXX to assign your data a DOI.
-        </p>
-
-        <h4>Citation formats</h4>
-        <p>
-        Standards for citing data are emerging slowing.  DataCite has two very simple recommended formats:  <a href="http://datacite.org/whycitedata">Examples of data citation</a>.  Our team can also help you create a format appropriate for your work.
-        </p>
-
+        
 				<!-- TemplateEndEditable -->
 		    </div>
 			<!-- End #single-col -->
