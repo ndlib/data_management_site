@@ -52,6 +52,7 @@ h1.home {
   margin-top:.35em;
   color:#0F3255 !important;
   text-transform: none;
+  opacity: 1;
 }
 
 h2.home {
