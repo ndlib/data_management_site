@@ -50,7 +50,8 @@ h1.home,
 h1.home {
   font-size:3.2em;
   margin-top:.35em;
-  color:#304962;
+  color:#0F3255 !important;
+  text-transform: none;
 }
 
 h2.home {
