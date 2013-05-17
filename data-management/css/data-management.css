@@ -2,6 +2,7 @@
 
 #left-nav {
   padding:0;
+  margin:0;
 }
 
 #left-nav li {
@@ -26,11 +27,12 @@
   margin-bottom: 0.1em;
 }
 
-  h1 {
+h1 {
   font-size: 1em;
   letter-spacing: -0.01em;
   opacity: 0.5;
   text-transform: uppercase;
+  line-height: 1;
 }
 
 .home h1,
@@ -38,7 +40,7 @@
   font-family:"Palatino Linotype", Palatino, Garamond, Georgia, serif;
   font-size:2.5em;
   line-height:1;
-  margin-bottom:0;
+  margin-bottom:.5em;
 }
 
  .amp {
