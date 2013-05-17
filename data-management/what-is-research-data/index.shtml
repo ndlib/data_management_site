@@ -1,98 +1,105 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>What is Research Data? // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>What is Research Data? // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 What is Research Data?
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>What is Research Data?</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-<p> Different sponsors have slightly different definitions for research data.  Here are three examples.</p>
-
-<p>For the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
-data is defined as the recorded factual material commonly
-accepted in the scientific community as necessary to validate
-research findings, but not any of the following: preliminary
-analyses, drafts of scientific papers, plans for future
-research, peer reviews, or communications with
-colleagues. This "recorded" material excludes physical objects
-(e.g., laboratory samples).” </p>
-
-<p>The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
-constitutes such data will be determined by the community of
-interest through the process of peer review and program
-management. This may include, but is not limited to: data,
-publications, samples, physical collections, software and
-models."</p>
-
-<p>The <a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm#901">National Institutes of Health</a> answers the question in this way.  "By 'final research data', we mean recorded factual material commonly accepted in the scientific community as necessary to validate research findings. Final research data do not include laboratory notebooks, partial datasets, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as gels or laboratory specimens."</p>  
-
-<p>Research data can be observational, experimental, simulated,
-derived, or compiled. Data can also come in many formats
-including, but not limited to:
-<ul>
-<li>No data produced - and thus no data management plan required</li>
-<li>Audio or video formats</li>
-<li>Codebooks</li>
-<li>Curriculum materials</li>
-<li>Databases</li>
-<li>Datasets</li>
-<li>Images (slides, jpegs, tiffs)</li>
-<li>Lab or field notebooks</li>
-<li>Log files, simulation software, schemas</li>
-<li>Models or algorithms</li>
-<li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
-<li>Physical collections</li>
-<li>Protocols, procedures, workflows or methodologies</li>
-<li>Questionnaires or test responses</li>
-<li>Software, including programming language(s), operating system(s), etc.</li>
-<li>Text files, pdfs, or Word documents</li>
-</ul>
-</p>
-
-<p>In general, "raw data", i.e., data from sensors or other instruments does not require archiving because it falls under the category of "preliminary analysis."  NSF guidelines, for example, require "analyzed data" as the basic level of digital data to be archived.</p>
-
-<p>If you are not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+<!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+<p>&nbsp;</p>
         <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-</div>
-<!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>Different sponsors have slightly different definitions for research data.  Here are three examples.</p>
+                    <p>For the <a href="http://www.whitehouse.gov/omb/fedreg_a110-finalnotice">Office of Management and Budget</a>, “ Research
+                      data is defined as the recorded factual material commonly
+                      accepted in the scientific community as necessary to validate
+                      research findings, but not any of the following: preliminary
+                      analyses, drafts of scientific papers, plans for future
+                      research, peer reviews, or communications with
+                      colleagues. This &quot;recorded&quot; material excludes physical objects
+                      (e.g., laboratory samples).” </p>
+                    <p>The <a href="http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp#1">National Science Foundation</a> says that “[w]hat
+                      constitutes such data will be determined by the community of
+                      interest through the process of peer review and program
+                      management. This may include, but is not limited to: data,
+                      publications, samples, physical collections, software and
+                      models.&quot;</p>
+                    <p>The <a href="http://grants1.nih.gov/grants/policy/data_sharing/data_sharing_faqs.htm#901">National Institutes of Health</a> answers the question in this way.  &quot;By 'final research data', we mean recorded factual material commonly accepted in the scientific community as necessary to validate research findings. Final research data do not include laboratory notebooks, partial datasets, preliminary analyses, drafts of scientific papers, plans for future research, peer review reports, communications with colleagues, or physical objects, such as gels or laboratory specimens.&quot;</p>
+                    <p>Research data can be observational, experimental, simulated,
+                      derived, or compiled. Data can also come in many formats
+                      including, but not limited to: </p>
+                    <ul>
+                      <li>No data produced - and thus no data management plan required</li>
+                      <li>Audio or video formats</li>
+                      <li>Codebooks</li>
+                      <li>Curriculum materials</li>
+                      <li>Databases</li>
+                      <li>Datasets</li>
+                      <li>Images (slides, jpegs, tiffs)</li>
+                      <li>Lab or field notebooks</li>
+                      <li>Log files, simulation software, schemas</li>
+                      <li>Models or algorithms</li>
+                      <li>Numerical (Excel, SPSS, STATA, Access, MySQL)</li>
+                      <li>Physical collections</li>
+                      <li>Protocols, procedures, workflows or methodologies</li>
+                      <li>Questionnaires or test responses</li>
+                      <li>Software, including programming language(s), operating system(s), etc.</li>
+                      <li>Text files, pdfs, or Word documents</li>
+                    </ul>
+                    </p>
+                    <p>In general, &quot;raw data&quot;, i.e., data from sensors or other instruments does not require archiving because it falls under the category of &quot;preliminary analysis.&quot;  NSF guidelines, for example, require &quot;analyzed data&quot; as the basic level of digital data to be archived.</p>
+                    <p>If you are not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>
