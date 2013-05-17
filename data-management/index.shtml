@@ -37,7 +37,7 @@ Data Management
 				<div class="twelve columns">
 					<div class="container">
 						<!-- InstanceBeginEditable name="pg-title" -->
-        <h1>Data Management</h1>
+        <h1 class="home">Data Management</h1>
         <!-- InstanceEndEditable -->
 						<div class="row">
 					
@@ -51,7 +51,7 @@ Data Management
 					</div> <!-- end #left-col --> 
 					<div class="nine columns">
 					<!-- InstanceBeginEditable name="right-column-content" -->
-						<h2>We provide a range of services supporting creators and users of data for research and teaching</h2>
+						<h2 class="home">We provide a range of services supporting creators and users of data for research and teaching</h2>
 
         <h3>Consult throughout data lifecycle</h3>
         <p>

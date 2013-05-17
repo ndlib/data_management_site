@@ -35,7 +35,7 @@ h1 {
   line-height: 1;
 }
 
-.home h1,
+h1.home,
  h2 {
   font-family:"Palatino Linotype", Palatino, Garamond, Georgia, serif;
   font-size:2.5em;
@@ -47,7 +47,7 @@ h1 {
   font-weight:normal;
 }
 
-.home  h1 {
+h1.home {
   font-size:3.2em;
   margin-top:.35em;
 }
