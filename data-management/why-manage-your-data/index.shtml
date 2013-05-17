@@ -1,85 +1,91 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Why Manage Your Data? // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Why Manage Your Data? // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+		<link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" /> 
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Why Manage Your Research Data?
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>Why Manage Your Research Data?</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-<p>As research becomes more data intensive and collaborative,
-data management is now an important part of responsible
-scholarly communication. Good data management benefits your own project as well as the various discipline-specific communities you are a part of (lab, academic department, university, research field). As a
-result, many sponsoring agencies now require data management plans.</p>
-
-<p>By managing your data you will:</p>
-<ul>
-<li>Meet grant requirements, or have a more competitive grant application.</li>
-<li>Better guarantee your research data and records are accurate, complete, authentic and reliable.</li>
-<li>Enhance data security and reduce risk of data loss.</li>
-<li>More easily preserve your research data for the long-term</li>
-<li>Increase the impact and visibility of your research having a more readily findable research data citation</li>
-</ul>
-
-<p>Thus, we recommend that you create a strategy to organize, preserve, and share your data long after your research
-concludes.</p>
-
-<h3>Testimonials</h3>
-<p>“The key to the Alzheimer’s project was an agreement as ambitious as its goal: not just to raise money, not just to do research on a vast scale, but also to share all the data, making every single finding public immediately, available to anyone with a computer anywhere in the world" (<a href="http://link.library.nd.edu/sbngg"><em>New York Times</em>, August 13, 2010</a>).</p>
-
-<h3>Consulting throughout data lifecycle</h3>
-<p>Data management is not just important at the end of your research, but is important throughout the lifecycle of your
-research project. There are many groups and resources on and off campus that can help you write a data management plan and
-help manage your data throughout its lifecycle.</p>
-
-<p>Here is one graphic depicting the <a href="http://dmconsult.library.virginia.edu/">research life cycle</a>.</p>
-
-<p>We will help answer your questions and connect you with the most appropriate groups on campus (link to listserv).</p>
-
-
-<h3>Getting Started</h3>
-<p>You may want to start by <a href="/data-management/identify-your-data-management-needs/">Identifying Your Data Management Needs</a>.</p>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+<!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+<p>&nbsp;</p>
 
         <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-</div>
-<!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>As research becomes more data intensive and collaborative,
+					  data management is now an important part of responsible
+					  scholarly communication. Good data management benefits your own project as well as the various discipline-specific communities you are a part of (lab, academic department, university, research field). As a
+					  result, many sponsoring agencies now require data management plans.</p>
+                    <p>By managing your data you will:</p>
+                    <ul>
+                      <li>Meet grant requirements, or have a more competitive grant application.</li>
+                      <li>Better guarantee your research data and records are accurate, complete, authentic and reliable.</li>
+                      <li>Enhance data security and reduce risk of data loss.</li>
+                      <li>More easily preserve your research data for the long-term</li>
+                      <li>Increase the impact and visibility of your research having a more readily findable research data citation</li>
+                    </ul>
+                    <p>Thus, we recommend that you create a strategy to organize, preserve, and share your data long after your research
+                      concludes.</p>
+                    <h3>Testimonials</h3>
+                    <p>“The key to the Alzheimer’s project was an agreement as ambitious as its goal: not just to raise money, not just to do research on a vast scale, but also to share all the data, making every single finding public immediately, available to anyone with a computer anywhere in the world&quot; (<a href="http://link.library.nd.edu/sbngg"><em>New York Times</em>, August 13, 2010</a>).</p>
+                    <h3>Consulting throughout data lifecycle</h3>
+                    <p>Data management is not just important at the end of your research, but is important throughout the lifecycle of your
+                      research project. There are many groups and resources on and off campus that can help you write a data management plan and
+                      help manage your data throughout its lifecycle.</p>
+                    <p>Here is one graphic depicting the <a href="http://dmconsult.library.virginia.edu/">research life cycle</a>.</p>
+                    <p>We will help answer your questions and connect you with the most appropriate groups on campus (link to listserv).</p>
+                    <h3>Getting Started</h3>
+                    <p>You may want to start by <a href="/data-management/identify-your-data-management-needs/">Identifying Your Data Management Needs</a>.</p>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>

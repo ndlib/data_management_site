@@ -1,83 +1,92 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Research Data Planning Tools // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Research Data Planning Tools // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />   
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Research Data Planning Tools
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
 <h2>Data Management Planning Tools</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
-<p>Listed below are some resources to help you write a data management plan for your research project. Your sponsor may also have templates/samples for your use.  Please note that for the NIH and NSF the 2-page data managment plan does not count against the 15 page limit for your proposal. Our team (link to listserv here) can review your data management plan prior to inclusion in your final proposal. Please forward a copy of your draft plan to us (link to listserv). Please contact us at least two weeks before your deadline to ensure that there's adequate time to review your plan.
-</p>
+						<div class="row">
+					
 
-        <h3>Components of data management plans</h3>
-<p>Here are the most important components of a data management plan:</p>
-<ul>
-    <li>Information about data and data format</li>
-    <li>Metadata content and format</li>
-    <li>Policies for access, sharing, and re-use</li>
-    <li>Long-term storage and data management</li>
-</ul>
-
-<h3>Budget</h3>
-<p>For the NSF, the budget for managing your data can be added to your proposal (typically line G2, with an explanation in the budget justification).  See this <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">section</a> (Ch. II C 2 g Budget (b) Publication/Documentation/Dissemination).  This may be true for other sponsors - our team can help you check.</p>
-
-<h3>DMPTool</h3>
-<p>The <a href="https://dmp.cdlib.org/">DMP Tool</a> is a flexible online tool that allows users to create data management plans for specific funding agencies, including the National Science Foundation (generic and directorate-specific), the National Institutes of Health, the National Oceanic and Atmospheric Administration, and the Institute of Museum and Library services, among others. The tool was developed by a partnership of major research institutions as a direct response to demands from grant funding agencies that researchers plan for managing their research data.</p>
-
-<h3>Inter-University Consortium for Political and Social Research (ICPSR)</h3>
-<p>The <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">ICPSR</a> provides a very useful framework that can be used as an outline in assembling data management plans to accompany grant applications.</p>
-
-        <h3>Example data management plans (DMPs) and other resources</h3>
-<ul>
-<li><a href="https://www.dataone.org/data-management-planning">Example DMP by DataONE</a></li>
-<li><a href="http://rci.ucsd.edu/dmp/examples.html">Example DMPs in proposals submitted to the NSF by researchers at UC San Diego</a></li>
-<li><a href="http://comp.rice.edu/WorkArea/DownloadAsset.aspx?id=518">Example DMPs by members of the Faculty Senate's Research Committee at Rice University</a></li>
-<li><a href="http://www.odum.unc.edu/odum/contentSubpage.jsp?nodeid=570">Example DMP from the University of Virginia's Odum Institute for Research in Social Science</a></li>
-<li><a href="http://deepblue.lib.umich.edu/handle/2027.42/86586?mode=simple&submit_simple=Show+simple+item+record">Commented DMP provided by the University of Michigan College of Engineering</a></li>
-<li><a href="https://research.hub.purdue.edu/resources/7">DMP Self-Assessment Tool, provided by Purdue University Libraries</a></li>
-<li><a href="http://libraries.mit.edu/guides/subjects/data-management/guides.html">MIT Data Management Guide</a></li>
-</ul>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+        <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+<p>&nbsp;</p>
 
         <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-</div>
-<!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>Listed below are some resources to help you write a data management plan for your research project. Your sponsor may also have templates/samples for your use.  Please note that for the NIH and NSF the 2-page data managment plan does not count against the 15 page limit for your proposal. Our team (link to listserv here) can review your data management plan prior to inclusion in your final proposal. Please forward a copy of your draft plan to us (link to listserv). Please contact us at least two weeks before your deadline to ensure that there's adequate time to review your plan. </p>
+                    <h3>Components of data management plans</h3>
+                    <p>Here are the most important components of a data management plan:</p>
+                    <ul>
+                      <li>Information about data and data format</li>
+                      <li>Metadata content and format</li>
+                      <li>Policies for access, sharing, and re-use</li>
+                      <li>Long-term storage and data management</li>
+                    </ul>
+                    <h3>Budget</h3>
+                    <p>For the NSF, the budget for managing your data can be added to your proposal (typically line G2, with an explanation in the budget justification).  See this <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">section</a> (Ch. II C 2 g Budget (b) Publication/Documentation/Dissemination).  This may be true for other sponsors - our team can help you check.</p>
+                    <h3>DMPTool</h3>
+                    <p>The <a href="https://dmp.cdlib.org/">DMP Tool</a> is a flexible online tool that allows users to create data management plans for specific funding agencies, including the National Science Foundation (generic and directorate-specific), the National Institutes of Health, the National Oceanic and Atmospheric Administration, and the Institute of Museum and Library services, among others. The tool was developed by a partnership of major research institutions as a direct response to demands from grant funding agencies that researchers plan for managing their research data.</p>
+                    <h3>Inter-University Consortium for Political and Social Research (ICPSR)</h3>
+                    <p>The <a href="http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/dmp/framework.html">ICPSR</a> provides a very useful framework that can be used as an outline in assembling data management plans to accompany grant applications.</p>
+                    <h3>Example data management plans (DMPs) and other resources</h3>
+                    <ul>
+                      <li><a href="https://www.dataone.org/data-management-planning">Example DMP by DataONE</a></li>
+                      <li><a href="http://rci.ucsd.edu/dmp/examples.html">Example DMPs in proposals submitted to the NSF by researchers at UC San Diego</a></li>
+                      <li><a href="http://comp.rice.edu/WorkArea/DownloadAsset.aspx?id=518">Example DMPs by members of the Faculty Senate's Research Committee at Rice University</a></li>
+                      <li><a href="http://www.odum.unc.edu/odum/contentSubpage.jsp?nodeid=570">Example DMP from the University of Virginia's Odum Institute for Research in Social Science</a></li>
+                      <li><a href="http://deepblue.lib.umich.edu/handle/2027.42/86586?mode=simple&amp;submit_simple=Show+simple+item+record">Commented DMP provided by the University of Michigan College of Engineering</a></li>
+                      <li><a href="https://research.hub.purdue.edu/resources/7">DMP Self-Assessment Tool, provided by Purdue University Libraries</a></li>
+                      <li><a href="http://libraries.mit.edu/guides/subjects/data-management/guides.html">MIT Data Management Guide</a></li>
+                    </ul>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>

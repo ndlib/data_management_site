@@ -1,93 +1,92 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />   
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Data Formats
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>Data Formats</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-        <p>
-          Some formats make it easier for you to share the data with colleagues. If you
-          use a special system or proprietary data format for collecting/creating your
-          data, you will want to plan to save and store data in that format, but also
-          consider how to convert it to a more open format for storage, archiving, and
-          sharing.
-        </p>
-
-        <p>
-          Formats Most easily accessed in the future are:
-        </p>
-        <ul>
-          <li>Non-proprietary and not tied to a specific piece of
-          software</li>
-          <li>Open, documented standard</li>
-          <li>In common usage by the research community</li>
-          <li>Standard representation (ASCII, Unicode)</li>
-          <li>Unencrypted</li>
-          <li>Uncompressed</li>
-        </ul>
-
-        <p>
-          Adapted from:
-          <a href="http://www2.lib.virginia.edu/brown/data/">
-            University of Virginia Libraries: Making Data Management Easier
-          </a>
-        </p>
-
-        <p>
-          For further consideration of file formats in the context of research
-          data management and preservation, See:
-        </p>
-
-        <ul>
-          <li>DCC  Digital Curation Manual Instalment on File Formats
-          (add link)</li>
-          <li>Library of Congress Sustainability of Digital Formats (add
-          link)</li>
-          <li>UK Data Archive's File Formats Table (add link)</li>
-        </ul>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+ <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+        <p>&nbsp;</p>
 
         <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-</div>
-<!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>Some formats make it easier for you to share the data with colleagues. If you
+					  use a special system or proprietary data format for collecting/creating your
+					  data, you will want to plan to save and store data in that format, but also
+					  consider how to convert it to a more open format for storage, archiving, and
+					  sharing. </p>
+                    <p> Formats Most easily accessed in the future are: </p>
+                    <ul>
+                      <li>Non-proprietary and not tied to a specific piece of
+                        software</li>
+                      <li>Open, documented standard</li>
+                      <li>In common usage by the research community</li>
+                      <li>Standard representation (ASCII, Unicode)</li>
+                      <li>Unencrypted</li>
+                      <li>Uncompressed</li>
+                    </ul>
+                    <p> Adapted from: <a href="http://www2.lib.virginia.edu/brown/data/"> University of Virginia Libraries: Making Data Management Easier </a> </p>
+                    <p> For further consideration of file formats in the context of research
+                      data management and preservation, See: </p>
+                    <ul>
+                      <li>DCC  Digital Curation Manual Instalment on File Formats
+                        (add link)</li>
+                      <li>Library of Congress Sustainability of Digital Formats (add
+                        link)</li>
+                      <li>UK Data Archive's File Formats Table (add link)</li>
+                    </ul>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>

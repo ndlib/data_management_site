@@ -1,111 +1,116 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Identifying Your Data Management Needs // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Identifying Your Data Management Needs // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+		<link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" /> 
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Identifying Your Data Management Needs
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
 <h2>Identifying Your Data Management Needs</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-<p>The following questions will help you to think about data management.  You may be able to answer these questions without much effort.  We hope that you begin to see how complex data management can be and what it will take to write an adequate data management plan.  The Hesburgh Libraries, the Center for Social Research, and other units on campus are here to help you along the way (our listserv here).</p>
-
-<h3>The Data</h3>
-<ul>
-<li>What type of data is being produced?  Examples include numeric data, image data, text, modeling, geospatial, patents, etc.   What are the file formats?  Is the data being generated de novo, or is it being generated from another study/experiment?</li>
-<li>How much data will there be (megabytes, gigabytes, terabytes, etc.)?  How much will it grow?  How often will it change?</li>
-</ul>
-
-<h3>Roles and Responsibilities</h3>
-<ul>
-<li>Who is responsible for collecting the data now?  The PI, the lab, the University, a consortium, other?  Who is currently responsible for data integrity and management?</li>
-<li>Who is your funder?  Does the organization have special data management requirements, including the need for a data management plan?</li>
-</ul>
-
-<h3>Accessing and Using the Data</h3>
-<ul>
-<li>Is there a metadata or ontology standard for describing your data in your community or University?  If not, is there a metadata standard that you’ve used in the past that you’re comfortable with?</li>
-<li>Are there special tools, software, etc., needed to create, read, process the data?  How are those tools, software, etc., managed and upgraded?</li>
-<li>Are there any special privacy or security requirements?  Personal-data, human subject data, high-security data?</li>
-</ul>
-
-<h3>Sharing Your Data</h3>
-<ul>
-<li>Do you plan to publish the data?  When and where?</li>
-<li>Who do you want to use it now and later?  Your lab, the University, North America, the world?  Are there any sharing requirements from the funder, e.g., a funder data sharing policy?  How do you plan to handle copyright or data re-use by others?</li>
-</ul>
-
-<h3>Storing and Preserving the Data</h3>
-<ul>
-<li>How do you plan to document your project?  What are your plans for managing the documentation?  What tools, software, etc. are you using?</li>
-<li>How long should the data, accompanying software, and documentation be retained?  3-5 years, 5-20 years, permanently?  How do you plan to ensure long-term access?</li>
-<li>Is there a data repository for your community?  Do you plan to store your data there?  Where else do you plan to store the data, e.g., in the University’s institutional repository?  How often would you like your data backed up?  Should it be stored in several locations?</li>
-</ul>
-
-<h3>Cost Estimate</h3>
-<ul>
-<li>What are the estimated costs of obtaining, preparing, documenting and archiving the data? Will all of these costs be covered by the funder?  If not, how will these costs be covered?</li>
-</ul>
-
-<p> Our team can help you with recommendations on metadata
-standards, policies for accessing and sharing your data,
-policies for re-use and distribution of your data, and plans
-for archiving and preserving your data.</p>
-
-<p>To request assistance, please contact our data management
-planning team (link to listserv). Please contact us at least
-two weeks before your grant deadline to ensure that we have
-adequate time to assist you with your plan. We will set up a time to
-meet with you and make recommendations. In preparation for
-your meeting with us, please try to answer the questions listed above, and
-set up an account with our <a href="https://dmp.cdlib.org/">DMP Tool</a>. The
-DMPTool provides templates for a variety of grant funding
-agencies’ data management plans.</p>
-
-<h3>Training and workshops</h3>
-<p>For hands on help with data management planning and
-information about Notre Dame’s data repository, please visit
-our training calendar (link to list of workshops).</p>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+<!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+<p>&nbsp;</p>
 
         <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-		<!-- End #content -->
-		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
-	</div>
-  <!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>The following questions will help you to think about data management.  You may be able to answer these questions without much effort.  We hope that you begin to see how complex data management can be and what it will take to write an adequate data management plan.  The Hesburgh Libraries, the Center for Social Research, and other units on campus are here to help you along the way (our listserv here).</p>
+                    <h3>The Data</h3>
+                    <ul>
+                      <li>What type of data is being produced?  Examples include numeric data, image data, text, modeling, geospatial, patents, etc.   What are the file formats?  Is the data being generated de novo, or is it being generated from another study/experiment?</li>
+                      <li>How much data will there be (megabytes, gigabytes, terabytes, etc.)?  How much will it grow?  How often will it change?</li>
+                    </ul>
+                    <h3>Roles and Responsibilities</h3>
+                    <ul>
+                      <li>Who is responsible for collecting the data now?  The PI, the lab, the University, a consortium, other?  Who is currently responsible for data integrity and management?</li>
+                      <li>Who is your funder?  Does the organization have special data management requirements, including the need for a data management plan?</li>
+                    </ul>
+                    <h3>Accessing and Using the Data</h3>
+                    <ul>
+                      <li>Is there a metadata or ontology standard for describing your data in your community or University?  If not, is there a metadata standard that you’ve used in the past that you’re comfortable with?</li>
+                      <li>Are there special tools, software, etc., needed to create, read, process the data?  How are those tools, software, etc., managed and upgraded?</li>
+                      <li>Are there any special privacy or security requirements?  Personal-data, human subject data, high-security data?</li>
+                    </ul>
+                    <h3>Sharing Your Data</h3>
+                    <ul>
+                      <li>Do you plan to publish the data?  When and where?</li>
+                      <li>Who do you want to use it now and later?  Your lab, the University, North America, the world?  Are there any sharing requirements from the funder, e.g., a funder data sharing policy?  How do you plan to handle copyright or data re-use by others?</li>
+                    </ul>
+                    <h3>Storing and Preserving the Data</h3>
+                    <ul>
+                      <li>How do you plan to document your project?  What are your plans for managing the documentation?  What tools, software, etc. are you using?</li>
+                      <li>How long should the data, accompanying software, and documentation be retained?  3-5 years, 5-20 years, permanently?  How do you plan to ensure long-term access?</li>
+                      <li>Is there a data repository for your community?  Do you plan to store your data there?  Where else do you plan to store the data, e.g., in the University’s institutional repository?  How often would you like your data backed up?  Should it be stored in several locations?</li>
+                    </ul>
+                    <h3>Cost Estimate</h3>
+                    <ul>
+                      <li>What are the estimated costs of obtaining, preparing, documenting and archiving the data? Will all of these costs be covered by the funder?  If not, how will these costs be covered?</li>
+                    </ul>
+                    <p> Our team can help you with recommendations on metadata
+                      standards, policies for accessing and sharing your data,
+                      policies for re-use and distribution of your data, and plans
+                      for archiving and preserving your data.</p>
+                    <p>To request assistance, please contact our data management
+                      planning team (link to listserv). Please contact us at least
+                      two weeks before your grant deadline to ensure that we have
+                      adequate time to assist you with your plan. We will set up a time to
+                      meet with you and make recommendations. In preparation for
+                      your meeting with us, please try to answer the questions listed above, and
+                      set up an account with our <a href="https://dmp.cdlib.org/">DMP Tool</a>. The
+                      DMPTool provides templates for a variety of grant funding
+                      agencies’ data management plans.</p>
+                    <h3>Training and workshops</h3>
+                    <p>For hands on help with data management planning and
+                      information about Notre Dame’s data repository, please visit
+                      our training calendar (link to list of workshops).</p>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>

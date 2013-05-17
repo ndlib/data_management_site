@@ -1,119 +1,121 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Sharing &amp; Archiving // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Sharing &amp; Archiving // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />   
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Sharing <span class="amp">&amp;</span> Archiving
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>Sharing <span class="amp">&amp;</span> Archiving Your Data</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-        <h3>Why archive and share your data?</h3>
-
-        <p>
-        Data management is not just about a plan; it is also about
-        executing a strategy that benefits your research objectives
-        and the community. Some reasons to archive and share your
-        data include:
-        </p>
-        <ul>
-          <li>It may be required by a publisher to share and preserve
-          access to related data</li>
-          <li>Your sponsor ,may require you to share it. Many
-          funding agencies, including NIH and NSF, have
-          guidelines requiring you to share your data.</li>
-          <li>Your data can advance research in other areas.</li>
-          <li>Your work is more likely to be cited by others and
-          increase your reputation within your discipline.</li>
-          <li>The University may require you to preserve your data.</li>
-        </ul>
-
-       <h3>How can you archive your data?</h3>
-
-        <p>
-        Depending on your needs, there are many options available for
-        archiving your data both locally and outside Notre
-        Dame. You may also deposit your content locally and link to it
-        from a community repository, or vice versa.
-        </p>
-
-        <h3>Why archive your data locally with the Hesburgh Libraries?</h3>
-
-        <ul>
-          <li><b>Your data lives on</b>: Your data is always safe
-          whether you leave the University or not. The Hesburgh Libraries
-          repository will preserve your content as long as needed.</li>
-          <li><b>Your data won't get lost or corrupted</b>: You have the peace of mind that
-          your data will have multiple copies with regular integrity
-          checking to ensure no files get corrupted.</li>
-          <li><b>Your data won't become obsolete</b>: Your data can
-          become unusable if the format becomes obsolete or the software
-          used to open it is no longer available. We will ensure data is
-          migrated and preserved in formats that ensure usability for the
-          long term.</li>
-          <li><b>Your data is more secure</b>: If you need higher levels of security, please contact our team (link here).</li>
-          <li><b>Your data can be cited</b>: See the <a href="/data-management/citing-your-data/">Citing Your Data page</a>.</li>
-          <li><b>Your data can be more easily shared and published</b>: Opt to share your data
-          with <a href="http://eresources.library.nd.edu/databases/googlescholar">Google Scholar</a> or other search engines</li>
-          <li><b>Your data has no discipline-specific repository</b>: There may not be a community based repository suited for your discipline or the concerns of your research project</li>
-          <li><b>Your data may be owned by the University</b>: If the University owns some or all of the data, you may be required you to preserve it locally</li>
-        </ul>
-
-        <p>To find out more, please contact our team (link to listserv here).</p>
-
-        <h3>Why archive your data in a discipline-specific repository?</h3>
-        <ul>
-          <li>Your community maintains a trusted repository that better meets your needs.</li>
-          <li>Your data will be archived with that of your peers.</li>
-          <li>Your data's access needs are different from those that can be provided locally.</li>
-        </ul>
-        <p><b>Note</b>: You may also want to link to your data in the Hesburgh Libraries'
-        repository to further enhance sharing and preservation. Our team (link to listserv) can help you determine which archival solution is best.</p>
-
-        <h3>Community Repository Options</h3>
-        <p>Don't know if you there's a repository for your research community?  <a href="http://databib.org/index.php">Databib</a> is a good place to start.
-        It's a searchable catalog / registry / directory / bibliography of research data repositories.  Our team (link to listserv)can also help you find discipline-specific repositories. </p>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+ <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+        <h3>&nbsp;</h3>
 
         
 				<!-- InstanceEndEditable -->
-		    </div>
-			<!-- End #single-col -->
-			</div>
-		<!-- End #content -->
-		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
-	</div>
-  <!-- End #wrapper -->
-</body>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<h3>Why archive and share your data?</h3>
+                    <p> Data management is not just about a plan; it is also about
+                      executing a strategy that benefits your research objectives
+                      and the community. Some reasons to archive and share your
+                      data include: </p>
+                    <ul>
+                      <li>It may be required by a publisher to share and preserve
+                        access to related data</li>
+                      <li>Your sponsor ,may require you to share it. Many
+                        funding agencies, including NIH and NSF, have
+                        guidelines requiring you to share your data.</li>
+                      <li>Your data can advance research in other areas.</li>
+                      <li>Your work is more likely to be cited by others and
+                        increase your reputation within your discipline.</li>
+                      <li>The University may require you to preserve your data.</li>
+                    </ul>
+                    <h3>How can you archive your data?</h3>
+                    <p> Depending on your needs, there are many options available for
+                      archiving your data both locally and outside Notre
+                      Dame. You may also deposit your content locally and link to it
+                      from a community repository, or vice versa. </p>
+                    <h3>Why archive your data locally with the Hesburgh Libraries?</h3>
+                    <ul>
+                      <li><b>Your data lives on</b>: Your data is always safe
+                        whether you leave the University or not. The Hesburgh Libraries
+                        repository will preserve your content as long as needed.</li>
+                      <li><b>Your data won't get lost or corrupted</b>: You have the peace of mind that
+                        your data will have multiple copies with regular integrity
+                        checking to ensure no files get corrupted.</li>
+                      <li><b>Your data won't become obsolete</b>: Your data can
+                        become unusable if the format becomes obsolete or the software
+                        used to open it is no longer available. We will ensure data is
+                        migrated and preserved in formats that ensure usability for the
+                        long term.</li>
+                      <li><b>Your data is more secure</b>: If you need higher levels of security, please contact our team (link here).</li>
+                      <li><b>Your data can be cited</b>: See the <a href="/data-management/citing-your-data/">Citing Your Data page</a>.</li>
+                      <li><b>Your data can be more easily shared and published</b>: Opt to share your data
+                        with <a href="http://eresources.library.nd.edu/databases/googlescholar">Google Scholar</a> or other search engines</li>
+                      <li><b>Your data has no discipline-specific repository</b>: There may not be a community based repository suited for your discipline or the concerns of your research project</li>
+                      <li><b>Your data may be owned by the University</b>: If the University owns some or all of the data, you may be required you to preserve it locally</li>
+                    </ul>
+                    <p>To find out more, please contact our team (link to listserv here).</p>
+                    <h3>Why archive your data in a discipline-specific repository?</h3>
+                    <ul>
+                      <li>Your community maintains a trusted repository that better meets your needs.</li>
+                      <li>Your data will be archived with that of your peers.</li>
+                      <li>Your data's access needs are different from those that can be provided locally.</li>
+                    </ul>
+                    <p><b>Note</b>: You may also want to link to your data in the Hesburgh Libraries'
+                      repository to further enhance sharing and preservation. Our team (link to listserv) can help you determine which archival solution is best.</p>
+                    <h3>Community Repository Options</h3>
+                    <p>Don't know if you there's a repository for your research community? <a href="http://databib.org/index.php">Databib</a> is a good place to start.
+                      It's a searchable catalog / registry / directory / bibliography of research data repositories.  Our team (link to listserv)can also help you find discipline-specific repositories. </p>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
 <!-- InstanceEnd --></html>

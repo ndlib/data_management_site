@@ -1,112 +1,119 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- InstanceBeginEditable name="doctitle" --><title>Documentation &amp; Metadata // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Documentation &amp; Metadata // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+		<link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" /> 
+		<!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Documentation <span class="amp">&nbsp;</span> Metadata
-<!-- InstanceEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- InstanceBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>Documentation <span class="amp">&amp;</span> Metadata</h2>
         <!-- InstanceEndEditable -->
-        </hgroup>
-        <!-- InstanceBeginEditable name="left-column-content" -->
+						<div class="row">
+					
 
-<p>Documentation will assist in the organization, discovery, and ease of use of your research data in the
-future. Metadata is "data about data"--descriptive information about a particular data set, object, or resource, including how it is formatted, and when and by whom it was collected. By adding metadata completely and carefully, it will ensure that the data is accessible for any user, and it will be easier for other
-researchers to cite your information.</p>
-
-<p>It is important to begin documenting information
-related to the project from the start. By documenting salient information early
-in the process, it will be much easier to ensure that all aspects of the project
-are relayed properly to your users. This will also aid in the long-term preservation
-of the data because it will show who was involved and what steps were taken
-to get to the results that you found.</p>
-
-<p><span class=GramE>A wide range of metadata standards exists</span>
-for researchers to choose from to document their project. An example of a data
-standard is the <a href="http://www.ddialliance.org/">DDI</a> (Data Documentation Initiative), a standard designed for
-numeric data. For further help in documenting your data please contact our team (link to listserv here).</p>
-
-<p>Below are some of the general guidelines that should be
-documented regardless of the discipline or project type. This metadata should
-be stored with the project data at the very least in a readme.txt file. If the
-information is included in an article or presentation, then you can reference
-that item so that the information can be accessed there. When recording this
-information, think about how you would search for similar projects, and be sure
-to include that information so that other researchers in the field can easily
-access the materials.</p>
-
-<h3>Most essential fields to augment discovery</h3>
-
-<ul>
-<li><b>Title</b>: Name of dataset or research project that produced it. (Include both if applicable.)</li>
-<li><b>Creator(s)</b>: Names and addresses of the group that created the data. This could be an individual or organization.</li>
-<li><b>Identifier</b>: Unique identifier or number that is used to identify the data. This could be an internal project number or code to reference the data.</li>
-<li><b>Abstract or Description</b>: A brief synopsis of the project or data that another researcher can review quickly to see the relevance of the project to what they are seeking.</li>
-<li><b>Dates</b>: All the dates associated with the project.  The most important is probably the release date of the data, but you'll eventually want to include start and end date of the project, time period covered by the data or project,  maintenance cycle of the data, update schedule of the data, and any other important dates that will help document the process and aid in preservation.</li>
-<li><b>Rights</b>: Any known intellectual property rights held for the data or project.</li>
-</ul>
-
-<h3>Recommended fields</h3>
-
-<ul>
-<li><b>Contributor(s)</b>: Names and addresses of additional individuals that contributed to the project.</li>
-<li><b>Subject</b>: Keywords, phrases, or subject headings that will describe the subject or content of the data. In adding these, think of how you would search for the materials.</li>
-<li><b>Funders</b>: Organizations or agencies that funded the research or project.</li>
-<li><b>Access Information</b>: The location of the data and how the researcher can access the materials. Confidentiality can be addressed here as well.</li>
-<li><b>Language</b>: The language(s) of the content.</li>
-<li><b>Location</b>: If the data relates to a physical location, the spatial coverage should be documented.</li>
-<li><b>Methodology</b>: The process of how the data was generated, include the equipment software used including the version, the experimental protocol, data validation and quality assurance of the data, and other information that would be documented during the process.</li>
-<li><b>Data Processing</b>: Documenting the alterations made to the data will aid in preservation of the data and record who made changes and for what reasons at specific times.</li>
-<li><b>Sources</b>: Citations for the sources that were used during the project. Include where the other data or material was stored and how it was accessed when appropriate.</li>
-<li><b>List of File Names</b>: List all of the data files associated with the project and include the file extensions. (Example: stone.mov)</li>
-<li><b>File Formats</b>: Format(s) of the data and any software that is required to read the data including the version. (Example: TIFF, FITS, JPEG, HTML)</li>
-<li><b>File Structure</b>: Organization of the data file(s) and the layout of the variables when applicable.</li>
-<li><b>Variable List</b>: List of variables in the data files, when applicable.</li>
-<li><b>Code Lists</b>: Explanation of codes or abbreviations used in the file names, variables of the data, or the project over all that will help the user understand the project. (Example: 999 indicates a missing value in the data)</li>
-<li><b>Versions</b>: Date/time stamp for each file and use a separate identifier for each version.</li>
-<li><b>Checksums</b>: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
-<li><b>Related Materials</b>: Links or location of materials that are related to the project. (Examples:
-Articles, presentations, papers)</li>
-<li><b>Citation</b>:The recommended way to cite the data or the information needed.  Visting <a href="http://wwwtest.library.nd.edu/data-management/citing-your-data/">Citing Your Data</a> for more information.</li>
-</ul>
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
+<!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
+<p>&nbsp;</p>
 
 
 <!-- InstanceEndEditable -->
-      </div>
-      <!-- End #single-col -->
-    </div>
-    <!-- End #content -->
-  </div>
-  <!--#include virtual="/ssi/footer.shtml" -->
-  </div>
-  <!-- End #wrapper -->
-</body> <!-- InstanceEnd --></html>
+					</div> 
+					<!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+					<p>Documentation will assist in the organization, discovery, and ease of use of your research data in the
+					  future. Metadata is &quot;data about data&quot;--descriptive information about a particular data set, object, or resource, including how it is formatted, and when and by whom it was collected. By adding metadata completely and carefully, it will ensure that the data is accessible for any user, and it will be easier for other
+					  researchers to cite your information.</p>
+                    <p>It is important to begin documenting information
+                      related to the project from the start. By documenting salient information early
+                      in the process, it will be much easier to ensure that all aspects of the project
+                      are relayed properly to your users. This will also aid in the long-term preservation
+                      of the data because it will show who was involved and what steps were taken
+                      to get to the results that you found.</p>
+                    <p><span class="GramE">A wide range of metadata standards exists</span> for researchers to choose from to document their project. An example of a data
+                      standard is the <a href="http://www.ddialliance.org/">DDI</a> (Data Documentation Initiative), a standard designed for
+                      numeric data. For further help in documenting your data please contact our team (link to listserv here).</p>
+                    <p>Below are some of the general guidelines that should be
+                      documented regardless of the discipline or project type. This metadata should
+                      be stored with the project data at the very least in a readme.txt file. If the
+                      information is included in an article or presentation, then you can reference
+                      that item so that the information can be accessed there. When recording this
+                      information, think about how you would search for similar projects, and be sure
+                      to include that information so that other researchers in the field can easily
+                      access the materials.</p>
+                    <h3>Most essential fields to augment discovery</h3>
+                    <ul>
+                      <li><b>Title</b>: Name of dataset or research project that produced it. (Include both if applicable.)</li>
+                      <li><b>Creator(s)</b>: Names and addresses of the group that created the data. This could be an individual or organization.</li>
+                      <li><b>Identifier</b>: Unique identifier or number that is used to identify the data. This could be an internal project number or code to reference the data.</li>
+                      <li><b>Abstract or Description</b>: A brief synopsis of the project or data that another researcher can review quickly to see the relevance of the project to what they are seeking.</li>
+                      <li><b>Dates</b>: All the dates associated with the project.  The most important is probably the release date of the data, but you'll eventually want to include start and end date of the project, time period covered by the data or project,  maintenance cycle of the data, update schedule of the data, and any other important dates that will help document the process and aid in preservation.</li>
+                      <li><b>Rights</b>: Any known intellectual property rights held for the data or project.</li>
+                    </ul>
+                    <h3>Recommended fields</h3>
+                    <ul>
+                      <li><b>Contributor(s)</b>: Names and addresses of additional individuals that contributed to the project.</li>
+                      <li><b>Subject</b>: Keywords, phrases, or subject headings that will describe the subject or content of the data. In adding these, think of how you would search for the materials.</li>
+                      <li><b>Funders</b>: Organizations or agencies that funded the research or project.</li>
+                      <li><b>Access Information</b>: The location of the data and how the researcher can access the materials. Confidentiality can be addressed here as well.</li>
+                      <li><b>Language</b>: The language(s) of the content.</li>
+                      <li><b>Location</b>: If the data relates to a physical location, the spatial coverage should be documented.</li>
+                      <li><b>Methodology</b>: The process of how the data was generated, include the equipment software used including the version, the experimental protocol, data validation and quality assurance of the data, and other information that would be documented during the process.</li>
+                      <li><b>Data Processing</b>: Documenting the alterations made to the data will aid in preservation of the data and record who made changes and for what reasons at specific times.</li>
+                      <li><b>Sources</b>: Citations for the sources that were used during the project. Include where the other data or material was stored and how it was accessed when appropriate.</li>
+                      <li><b>List of File Names</b>: List all of the data files associated with the project and include the file extensions. (Example: stone.mov)</li>
+                      <li><b>File Formats</b>: Format(s) of the data and any software that is required to read the data including the version. (Example: TIFF, FITS, JPEG, HTML)</li>
+                      <li><b>File Structure</b>: Organization of the data file(s) and the layout of the variables when applicable.</li>
+                      <li><b>Variable List</b>: List of variables in the data files, when applicable.</li>
+                      <li><b>Code Lists</b>: Explanation of codes or abbreviations used in the file names, variables of the data, or the project over all that will help the user understand the project. (Example: 999 indicates a missing value in the data)</li>
+                      <li><b>Versions</b>: Date/time stamp for each file and use a separate identifier for each version.</li>
+                      <li><b>Checksums</b>: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
+                      <li><b>Related Materials</b>: Links or location of materials that are related to the project. (Examples:
+                        Articles, presentations, papers)</li>
+                      <li><b>Citation</b>:The recommended way to cite the data or the information needed.  Visting <a href="http://wwwtest.library.nd.edu/data-management/citing-your-data/">Citing Your Data</a> for more information.</li>
+                    </ul>
+					<!-- InstanceEndEditable -->
+			 		</div> 
+					<!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
+<!-- InstanceEnd --></html>
