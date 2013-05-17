@@ -10,6 +10,7 @@
 		<!--#include virtual="/ssi/js.shtml" -->
 		<!--#include virtual="/ssi/responsive/js.shtml" -->
 		<!-- InstanceBeginEditable name="head" -->
+		<link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
 		<!-- InstanceEndEditable -->
 	</head>
 	<body>
