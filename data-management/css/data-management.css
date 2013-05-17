@@ -22,30 +22,30 @@
   margin-bottom:2em;
 }
 
-#pg-title h1 {
+ h1 {
   margin-bottom: 0.1em;
 }
 
-.child-page #pg-title h1 {
+.child-page  h1 {
   font-size: 1em;
   letter-spacing: -0.01em;
   opacity: 0.5;
   text-transform: uppercase;
 }
 
-.home #pg-title h1,
-.child-page #pg-title h2 {
+.home h1,
+.child-page  h2 {
   font-family:"Palatino Linotype", Palatino, Garamond, Georgia, serif;
   font-size:2.5em;
   line-height:1;
   margin-bottom:0;
 }
 
-#pg-title .amp {
+ .amp {
   font-weight:normal;
 }
 
-.home #pg-title h1 {
+.home  h1 {
   font-size:3.2em;
   margin-top:.35em;
 }
