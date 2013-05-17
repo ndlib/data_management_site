@@ -42,9 +42,15 @@ Data Management
 					
 
 					<div class="three columns ">
-					<!-- InstanceBeginEditable name="left-column-content" -->
+					<!-- InstanceBeginEditable name="left-column-content" --><!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
 
-        <h2>We provide a range of services supporting creators and users of data for research and teaching</h2>
+            
+
+				<!-- InstanceEndEditable -->
+					</div> <!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+						<h2>We provide a range of services supporting creators and users of data for research and teaching</h2>
 
         <h3>Consult throughout data lifecycle</h3>
         <p>
@@ -106,13 +112,7 @@ Data Management
 
       <h3>Workshops</h3>
       <p>
-        Our team also arranges workshops on a regular basis.  See this schedule <strong>link here (COMING SOON)</strong>.</p>      </p>
-
-				<!-- InstanceEndEditable -->
-					</div> <!-- end #left-col --> 
-					<div class="nine columns">
-					<!-- InstanceBeginEditable name="right-column-content" -->
-						Right Column Content Here
+        Our team also arranges workshops on a regular basis.  See this schedule <strong>link here (COMING SOON)</strong>.</p> 
 					<!-- InstanceEndEditable -->
 			 		</div> <!-- end right-col -->
 			 			</div>
