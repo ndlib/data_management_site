@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+	<!-- InstanceBeginEditable name="doctitle" --><title>Data Formats // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<!--#include virtual="/ssi/css.shtml" -->
@@ -24,20 +24,20 @@
 	<!-- End #main-menu -->
 	<div id="content_wrapper" class="outter">
 		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
+			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Data Formats
-<!-- TemplateEndEditable --></div>
+<!-- InstanceEndEditable --></div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
       <div id="single-col" class="column span-16 append-1 last">
         <hgroup id="pg-title">
-        <!-- TemplateBeginEditable name="pg-title" -->
+        <!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
         <h2>Data Formats</h2>
-        <!-- TemplateEndEditable -->
+        <!-- InstanceEndEditable -->
         </hgroup>
-        <!-- TemplateBeginEditable name="left-column-content" -->
+        <!-- InstanceBeginEditable name="left-column-content" -->
 
         <p>
           Some formats make it easier for you to share the data with colleagues. If you
@@ -80,7 +80,7 @@ Data Formats
           <li>UK Data Archive's File Formats Table (add link)</li>
         </ul>
 
-        <!-- TemplateEndEditable -->
+        <!-- InstanceEndEditable -->
       </div>
       <!-- End #single-col -->
     </div>
@@ -90,4 +90,4 @@ Data Formats
 </div>
 <!-- End #wrapper -->
 </body>
-</html>
+<!-- InstanceEnd --></html>

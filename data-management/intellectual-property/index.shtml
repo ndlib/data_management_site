@@ -5,11 +5,11 @@
     <meta http-equiv="Content-Type"
     content="text/html; charset=utf-8" />
     <meta name="site-version" content="3.0" />
-    <!-- TemplateBeginEditable name="doctitle" -->
+    <!-- InstanceBeginEditable name="doctitle" -->
     <title>Intellectual Property &amp; Ethical Conduct // Data
     Management // Hesburgh Libraries // University of Notre
     Dame</title>
-    <!-- TemplateEndEditable -->
+    <!-- InstanceEndEditable -->
     <meta name="description"
     content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -19,8 +19,8 @@
     type="text/css" />
     <link href="/data-management/css/data-management.css"
     rel="stylesheet" type="text/css" />
-    <!-- TemplateBeginEditable name="head" -->
-    <!-- TemplateEndEditable -->
+    <!-- InstanceBeginEditable name="head" -->
+    <!-- InstanceEndEditable -->
   </head>
   <body>
     <div id="wrapper" class="outter">
@@ -36,27 +36,27 @@
       <div id="content_wrapper" class="outter">
         <div id="content" class="container child-page">
           <div id="crumbs" class="span-24 last">
-          <!-- TemplateBeginEditable name="crumbs" -->
+          <!-- InstanceBeginEditable name="crumbs" -->
           <a href="/">Hesburgh Library</a>&gt;
           <a href="/data-management/">Data Management</a>&gt;
             Intellectual Property
             <span class="amp">&amp;</span>
             Ethical Conduct
-          <!-- TemplateEndEditable --></div>
+          <!-- InstanceEndEditable --></div>
           <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
           <div id="single-col"
           class="column span-16 append-1 last">
             <hgroup id="pg-title">
-              <!-- TemplateBeginEditable name="pg-title" -->
+              <!-- InstanceBeginEditable name="pg-title" -->
               <h1>Data Management</h1>
               <h2>
                 Intellectual Property
                 <span class="amp">&amp;</span>
                 Ethical Conduct
               </h2>
-              <!-- TemplateEndEditable -->
+              <!-- InstanceEndEditable -->
             </hgroup>
-            <!-- TemplateBeginEditable name="left-column-content" -->
+            <!-- InstanceBeginEditable name="left-column-content" -->
 <h3>Management of Intellectual Property and Ethical Conduct</h3>
 
 <p>"It is the policy of the University of Notre Dame, [...] that the University claims the exclusive right to all intellectual property arising from University Research. Creators of intellectual property have an obligation to disclose intellectual property in the manner prescribed within this policy, to assign intellectual property rights to the University, and to assist the University in legally protecting the intellectual property. The University and the creator share in any royalty income resulting from the intellectual property as described in this policy" (<a href="http://policy.nd.edu/policy_files/IntellectualPropertyPolicy.pdf">Intellectual Property Policy</a>, last reviewed September, 2006)<p>
@@ -225,7 +225,7 @@
             accepted.</p>
             <p>*Note: Laws about data vary outside the U.S.</p>
  -->
-            <!-- TemplateEndEditable -->
+            <!-- InstanceEndEditable -->
           </div>
           <!-- End #single-col -->
         </div>
@@ -235,4 +235,4 @@
     </div>
     <!-- End #wrapper -->
   </body>
-</html>
+<!-- InstanceEnd --></html>

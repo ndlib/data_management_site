@@ -1,43 +1,48 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
-	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<!--#include virtual="/ssi/css.shtml" -->
-	<!--#include virtual="/ssi/js.shtml" -->
-  <link href="//www.library.nd.edu/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="/data-management/css/data-management.css" rel="stylesheet" type="text/css" />
-  <!-- TemplateBeginEditable name="head" -->
-  <!-- TemplateEndEditable -->
-</head>
-<body>
-	<div id="wrapper" class="outter">
-	<!--#include virtual="/ssi/skip-links.shtml" -->
-		<div id="header" class="outter">
-		<!--#include virtual="/ssi/header.shtml" -->
-	</div>
-	<!-- End #header -->
-	<div id="main-menu" class="outter">
-	<!--#include virtual="/ssi/main-menu.shtml" -->
-	</div>
-	<!-- End #main-menu -->
-	<div id="content_wrapper" class="outter">
-		<div id="content" class="container home">
-			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template_two_col_r_wide_r.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<!-- InstanceBeginEditable name="doctitle" --><title>Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
+		<meta name="description" content="Information resources and collections of the Hesburgh Libraries, University of Notre Dame." />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<!--#include virtual="/ssi/responsive/css.shtml" -->
+		<!--#include virtual="/ssi/js.shtml" -->
+		<!--#include virtual="/ssi/responsive/js.shtml" -->
+		<!-- InstanceBeginEditable name="head" -->
+  <!-- InstanceEndEditable -->
+	</head>
+	<body>
+		<div class="container">
+			<div class="row header">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/responsive/header.shtml" -->
+				</div>
+			</div> <!-- End .header -->
+			<div class="row menu">
+				<div class="twelve columns">
+					<!--#include virtual="/ssi/main-menu.shtml" -->
+				</div>
+			</div><!-- End main-menu -->
+			<div class="row breadcrumb">
+				<div class="twelve columns">
+					<p><a href="/">Hesburgh Libraries</a><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 Data Management
-<!-- TemplateEndEditable --></div>
-      <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
-      <div id="single-col" class="column span-16 append-1 last">
-        <hgroup id="pg-title">
-        <!-- TemplateBeginEditable name="pg-title" -->
+<!-- InstanceEndEditable --></p>
+				</div>
+			</div>
+			<div class="row content">
+				<div class="twelve columns">
+					<div class="container">
+						<!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
-        <!-- TemplateEndEditable -->
-        </hgroup>
-        <!-- TemplateBeginEditable name="left-column-content" -->
+        <!-- InstanceEndEditable -->
+						<div class="row">
+					
+
+					<div class="three columns ">
+					<!-- InstanceBeginEditable name="left-column-content" -->
 
         <h2>We provide a range of services supporting creators and users of data for research and teaching</h2>
 
@@ -103,14 +108,18 @@ Data Management
       <p>
         Our team also arranges workshops on a regular basis.  See this schedule <strong>link here (COMING SOON)</strong>.</p>      </p>
 
-				<!-- TemplateEndEditable -->
-		    </div>
-			<!-- End #single-col -->
-			</div>
-		<!-- End #content -->
-		</div>
-	<!--#include virtual="/ssi/footer.shtml" -->
-	</div>
-  <!-- End #wrapper -->
-</body>
-</html>
+				<!-- InstanceEndEditable -->
+					</div> <!-- end #left-col --> 
+					<div class="nine columns">
+					<!-- InstanceBeginEditable name="right-column-content" -->
+						Right Column Content Here
+					<!-- InstanceEndEditable -->
+			 		</div> <!-- end right-col -->
+			 			</div>
+			 		</div>
+				</div> 
+			</div><!-- end content -->
+			<!--#include virtual="/ssi/responsive/footer.shtml" -->
+		</div><!-- End .container -->
+	</body>
+<!-- InstanceEnd --></html>

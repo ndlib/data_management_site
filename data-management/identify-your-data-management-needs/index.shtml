@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="site-version" content="3.0" />
-	<!-- TemplateBeginEditable name="doctitle" --><title>Identifying Your Data Management Needs // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- TemplateEndEditable -->
+	<!-- InstanceBeginEditable name="doctitle" --><title>Identifying Your Data Management Needs // Data Management // Hesburgh Libraries // University of Notre Dame</title><!-- InstanceEndEditable -->
 	<meta name="description" content="Digital Repository Services provided by the Hesburgh Libraries, University of Notre Dame." />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<!--#include virtual="/ssi/css.shtml" -->
@@ -24,20 +24,20 @@
 	<!-- End #main-menu -->
 	<div id="content_wrapper" class="outter">
 		<div id="content" class="container child-page">
-			<div id="crumbs" class="span-24 last"><!-- TemplateBeginEditable name="crumbs" -->
+			<div id="crumbs" class="span-24 last"><!-- InstanceBeginEditable name="crumbs" -->
 <a href="/">Hesburgh Library </a> &gt;
 <a href="/data-management/">Data Management</a> &gt;
 Identifying Your Data Management Needs
-<!-- TemplateEndEditable --></div>
+<!-- InstanceEndEditable --></div>
       <!--#include virtual="/data-management/ssi/left-navigation.shtml" -->
       <div id="single-col" class="column span-16 append-1 last">
         <hgroup id="pg-title">
-        <!-- TemplateBeginEditable name="pg-title" -->
+        <!-- InstanceBeginEditable name="pg-title" -->
         <h1>Data Management</h1>
 <h2>Identifying Your Data Management Needs</h2>
-        <!-- TemplateEndEditable -->
+        <!-- InstanceEndEditable -->
         </hgroup>
-        <!-- TemplateBeginEditable name="left-column-content" -->
+        <!-- InstanceBeginEditable name="left-column-content" -->
 
 <p>The following questions will help you to think about data management.  You may be able to answer these questions without much effort.  We hope that you begin to see how complex data management can be and what it will take to write an adequate data management plan.  The Hesburgh Libraries, the Center for Social Research, and other units on campus are here to help you along the way (our listserv here).</p>
 
@@ -98,7 +98,7 @@ agencies’ data management plans.</p>
 information about Notre Dame’s data repository, please visit
 our training calendar (link to list of workshops).</p>
 
-        <!-- TemplateEndEditable -->
+        <!-- InstanceEndEditable -->
       </div>
       <!-- End #single-col -->
     </div>
@@ -108,4 +108,4 @@ our training calendar (link to list of workshops).</p>
 	</div>
   <!-- End #wrapper -->
 </body>
-</html>
+<!-- InstanceEnd --></html>
