@@ -26,7 +26,7 @@
   margin-bottom: 0.1em;
 }
 
-.child-page  h1 {
+  h1 {
   font-size: 1em;
   letter-spacing: -0.01em;
   opacity: 0.5;
@@ -34,7 +34,7 @@
 }
 
 .home h1,
-.child-page  h2 {
+ h2 {
   font-family:"Palatino Linotype", Palatino, Garamond, Georgia, serif;
   font-size:2.5em;
   line-height:1;
@@ -50,7 +50,7 @@
   margin-top:.35em;
 }
 
-#pg-title .amp {
+ .amp {
   font-style:italic;
 }
 
