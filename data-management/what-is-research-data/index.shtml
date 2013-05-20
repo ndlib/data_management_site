@@ -90,9 +90,14 @@ What is Research Data?
                       <li>Software, including programming language(s), operating system(s), etc.</li>
                       <li>Text files, pdfs, or Word documents</li>
                     </ul>
-                    </p>
-                    <p>In general, &quot;raw data&quot;, i.e., data from sensors or other instruments does not require archiving because it falls under the category of &quot;preliminary analysis.&quot;  NSF guidelines, for example, require &quot;analyzed data&quot; as the basic level of digital data to be archived.</p>
-                    <p>If you are not sure whether what you have is considered research data for your particular sponsor or not, please feel free to contact our team (listserv here).  We can help you decide.</p>
+                    <p>
+										In general, &quot;raw data&quot;, i.e., data from sensors or other instruments does not require archiving because it falls under the category of &quot;preliminary analysis.&quot;
+										NSF guidelines, for example, require &quot;analyzed data&quot; as the basic level of digital data to be archived.
+										</p>
+										<p>
+										If you are not sure whether what you have is considered research data for your particular sponsor or not, please feel free to <a href="mailto:E-RESEARCH-LIB@listserv.nd.edu">contact our team</a>.
+										We can help you decide.
+										</p>
 					<!-- InstanceEndEditable -->
 			 		</div> 
 					<!-- end right-col -->
