@@ -104,7 +104,7 @@ Documentation <span class="amp">&nbsp;</span> Metadata
                       <li><b>Checksums</b>: Used to test if your file has changed over time. This will aid in the long term preservation of the data and help make it secure by tracking alterations.</li>
                       <li><b>Related Materials</b>: Links or location of materials that are related to the project. (Examples:
                         Articles, presentations, papers)</li>
-                      <li><b>Citation</b>:The recommended way to cite the data or the information needed.  Visting <a href="http://wwwtest.library.nd.edu/data-management/citing-your-data/">Citing Your Data</a> for more information.</li>
+                      <li><b>Citation</b>:The recommended way to cite the data or the information needed.  Visting <a href="/data-management/citing-your-data/">Citing Your Data</a> for more information.</li>
                     </ul>
 					<!-- InstanceEndEditable -->
 			 		</div> 
