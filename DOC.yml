@@ -1,0 +1,25 @@
+id: data-management
+name: Data Management Information Site
+owner: dbrubak1
+developers:
+  - dbrubak1
+  - awetheri
+purpose: >
+  A website providing information and resources for research data management.
+audience: >
+  faculty, researchers, graduate students, undergraduate students
+dependencies:
+
+hosts:
+  - library website cluster host
+urls:
+  - "http://www.library.nd.edu/data-management"
+setup: >
+  Open data-management/index.shtml in a browser as just static html
+deploy: >
+  Deploy via Jenkins
+notes: >
+  Likely to be combined with the Center for Digital Scholarship site in the future.
+last_review:
+  date: 2013-06-24
+  reviewer: rjohns14
